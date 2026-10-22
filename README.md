@@ -1,6 +1,6 @@
-# 🥪 Jaffle Shop
+# 🥪 The Awful Shop
 
-A dbt project for a made-up café that sells jaffles 🥪 and drinks ☕. It builds dimensions, facts, reports and metrics from the café's source data, and runs locally on DuckDB.
+A test dbt project for a made-up café that sells jaffles 🥪 and drinks ☕. It builds dimensions, facts, reports and metrics from the café's source data, and runs locally on DuckDB.
 
 The project is based on dbt Labs' [Jaffle Shop](https://github.com/dbt-labs/jaffle-shop), with extended source data: stores and regions, products with tags and price history, customer changes, a marketing CRM, payments, daily inventory counts, store metrics and a finance sales sheet.
 
