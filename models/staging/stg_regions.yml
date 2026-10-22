@@ -1,0 +1,9 @@
+models:
+  - name: stg_regions
+    description: Sales regions that stores roll up to, one row per region.
+    columns:
+      - name: region_id
+        description: The unique key for each region.
+        data_tests:
+          - not_null
+          - unique

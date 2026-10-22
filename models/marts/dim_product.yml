@@ -1,0 +1,16 @@
+models:
+  - name: dim_product
+    description: Products with their menu tags, one row per product and tag.
+    columns:
+      - name: product_key
+        description: Surrogate key of the product, generated from product_id. Facts join on this.
+      - name: product_id
+        description: The product's SKU in the source system, kept as a normal attribute.
+        data_tests:
+          - not_null
+      - name: product_tag
+        description: Menu label, for example vegan or spicy.
+      - name: category_description
+        description: Readable name of the source category code, for example "Beverage - coffee".
+        data_tests:
+          - not_null

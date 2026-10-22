@@ -1,0 +1,933 @@
+contact_id,full_name,email_address,phone_number,lifecycle_stage,marketing_opt_in,created_date,home_store,pos_customer_ref
+C-100919,Casey Garcia,casey.garcia469@example.com,(305) 555-3358,lead,TRUE,09/02/2024,,
+C-100334,DANA WOLFE,DANAW476@EXAMPLE.COM,(305) 555-5962,customer,TRUE,05/18/2024,Miami,53352c2c-02b9-41af-b276-94d6d22379fe
+C-100903,Jordan Murphy,jordan.murphy572@example.com,,lead,TRUE,04/04/2025,Miami,
+C-100522,Erika Mccarthy,erika.mccarthy7@inbox.example.net,(305) 555-7185,customer,TRUE,04/01/2025,Miami,
+C-100097,JONATHAN ANDERSON,,(617) 555-5390,customer,TRUE,05/24/2024,Boston,
+C-100927,Emerson Rossi,emerson.rossi248@example.com,,lead,FALSE,08/09/2025,Dallas,
+C-100196,Donald Thomas,DONALD.THOMAS27@INBOX.EXAMPLE.NET,,customer,TRUE,12/08/2024,Boston,
+C-100505,Michelle Olson,,(813) 555-5635,customer,TRUE,12/07/2024,Miami,66975479-1eec-445e-a34d-78b59cc44f64
+C-100513,"Rogers, Shawn",shawn.rogers38@inbox.example.net,(305) 555-6092,customer,FALSE,11/30/2024,Miami,8699b9d8-d299-411d-82bc-9ee94abdf576
+C-100116,Roy Young,royy924@example.com,(617) 555-4380,customer,FALSE,07/26/2024,Boston,faae2750-9c1c-4c70-96ed-e845374e4e5e
+C-100710,"Ayala, William",william.ayala2@inbox.example.net,(617) 555-9323,customer,TRUE,03/17/2025,Boston,
+C-100569,Shane Barber,shane.barber43@mail.example.org,(407) 555-8278,customer,FALSE,02/12/2025,Miami,1439dc05-4ab9-4995-90c7-d9437ae94f50
+C-100359,Steven Carter,steven.carter22@example.com,(407) 555-8083,customer,FALSE,03/23/2025,Miami,4232e434-92ef-4ff9-a069-d1e5312ebda2
+C-100880,Casey Garcia,casey.garcia496@example.com,,lead,FALSE,03/19/2025,Denver,
+C-100054,Todd Burton,todd.burton89@mail.example.org,,customer,FALSE,04/15/2024,Boston,
+C-100828,Quinn Rossi,QUINN.ROSSI574@EXAMPLE.COM,,lead,FALSE,06/24/2025,,
+C-100529,Jason Garrison,jasong390@example.com,(813) 555-4379,customer,FALSE,12/15/2024,Miami,
+C-100200,"Ross, Sarah",sarahr201@example.com,(617) 555-0705,customer,FALSE,09/20/2024,Boston,
+C-100003,Allison Oliver,allison.oliver1@inbox.example.net,(401) 555-6838,customer,TRUE,08/23/2024,Boston,
+C-100015,Tyrone Ryan,tyrone.ryan64@inbox.example.net,(617) 555-0651,customer,FALSE,05/16/2024,Boston,
+C-100202,Cynthia Owens,CYNTHIA.OWENS40@EXAMPLE.COM,(978) 555-4888,customer,TRUE,12/07/2024,Boston,848c50eb-5e2a-4b53-b6b9-751bfad107b7
+C-100258,Justin Duarte,justin.duarte57@inbox.example.net,(617) 555-1841,customer,FALSE,03/26/2024,Boston,0327ed4c-b4a3-4746-9221-3bb172a05c50
+C-100004, Nancy Austin ,nancy.austin31@example.com,(617) 555-9929,customer,FALSE,05/05/2024,Boston,
+C-100558,Jimmy Bridges,,(617) 555-6022,subscriber,FALSE,09/05/2024,Boston,
+C-100911,Emerson Garcia,EMERSON.GARCIA601@EXAMPLE.COM,,lead,FALSE,09/06/2024,Dallas,
+C-100620,Cynthia Frazier,cynthiaf218@example.com,(305) 555-4907,customer,TRUE,10/26/2024,Miami,f3c5c37f-bd98-40b6-8f8b-eeb75218bbed
+C-100014,Lori Butler,LORIB263@EXAMPLE.COM,(207) 555-8876,customer,FALSE,05/01/2024,Boston,
+C-100115,Leah Estrada,leahe514@example.com,(617) 555-8363,customer,FALSE,11/12/2023,Boston,
+C-100443,Wendy Tapia,WENDYT823@EXAMPLE.COM,(813) 555-9567,customer,TRUE,08/10/2024,Miami,
+C-100764,MR. NATHAN PETERSEN,MR.NATHANPETERSEN67@MAIL.EXAMPLE.ORG,,customer,FALSE,07/23/2025,Miami,03410ea3-1e8a-40ef-9322-bc532f78f7ff
+C-100501,Kimberly Cherry,KIMBERLY.CHERRY99@INBOX.EXAMPLE.NET,(305) 555-5444,customer,TRUE,03/29/2025,Miami,f772193d-0b52-429c-ac06-5e9986fefa68
+C-100437,"Keller, Katie",katie.keller40@mail.example.org,(305) 555-9312,customer,FALSE,05/23/2024,Miami,
+C-100801,"Lopez, Jeffrey",jeffrey.lopez79@inbox.example.net,(407) 555-0289,customer,FALSE,06/06/2025,Miami,
+C-100408,"Robinson, Misty",misty.robinson25@example.com,(305) 555-5974,customer,FALSE,05/23/2024,Miami,
+C-100584,Jerry Wilkins,jerry.wilkins82@inbox.example.net,(305) 555-2615,customer,TRUE,07/14/2024,Miami,
+C-100932,Quinn Kim,QUINN.KIM967@EXAMPLE.COM,,lead,TRUE,11/20/2024,Austin,
+C-100498,Pamela Rosales,pamela.rosales17@mail.example.org,(407) 555-6913,customer,FALSE,06/05/2024,Miami,
+C-100484,TRACI HICKS,traci.hicks23@mail.example.org,(239) 555-8765,customer,FALSE,12/31/2024,Miami,3dc87d1c-7942-471e-b947-26b7ec78cedb
+C-100210,Mark Jenkins,mark.jenkins11@example.com,(978) 555-0828,customer,TRUE,06/29/2024,Boston,28a5a7b8-b34b-47a6-91f7-8e384d6b6f59
+C-100137,"Knight, Ronnie",ronnie.knight46@mail.example.org,(617) 555-9404,customer,TRUE,02/27/2024,Boston,
+C-100737,Christopher Townsend,christopher.townsend97@mail.example.org,(407) 555-9769,customer,TRUE,06/09/2025,Miami,
+C-100862,Jordan Patel,jordan.patel113@example.com,(305) 555-7447,lead,FALSE,08/23/2025,,
+C-100758,"Robinson, Cheryl",cheryl.robinson96@inbox.example.net,(978) 555-6802,customer,FALSE,05/07/2025,Boston,
+C-100152,Christine Gonzales,christineg369@example.com,(617) 555-2712,customer,FALSE,09/14/2024,Boston,77b903b9-c97e-44ae-8274-9dea7b101277
+C-100664,"Jones, Ronald",ronald.jones69@inbox.example.net,(617) 555-6237,customer,TRUE,07/15/2025,Boston,bd72d373-2261-4193-bee7-41d3bfd08ef1
+C-100191,James Thomas,james.thomas99@example.com,(401) 555-9123,customer,TRUE,05/29/2024,Boston,387603c1-d2a6-475e-ab4c-9ba7aa78bb27
+C-100924,Riley Murphy,riley.murphy728@example.com,(617) 555-4339,lead,TRUE,01/10/2025,,
+C-100914,Avery Kim,avery.kim232@example.com,,lead,FALSE,05/17/2025,,
+C-100731,Sue Bailey,sue.bailey62@mail.example.org,(305) 555-8491,customer,TRUE,11/02/2024,Miami,
+C-100085,Henry Zamora,henry.zamora25@inbox.example.net,(401) 555-5018,customer,FALSE,03/31/2024,Boston,
+C-100662,"Rosario, Andrew",andrew.rosario3@example.com,,customer,TRUE,06/19/2024,Miami,
+C-100090,Tracy Garcia,,,customer,FALSE,09/07/2024,Boston,5d5ea9b6-fefd-4e25-850a-9c2d365e7e27
+C-100809, Kimberly Schneider ,kimberly.schneider69@mail.example.org,(401) 555-6397,customer,TRUE,12/22/2024,Boston,e4d6980c-4b68-4255-97a5-2540f5ef35bc
+C-100016,Tyrone Ryan,,(617) 555-0651,subscriber,FALSE,11/28/2024,Boston,
+C-100053,"Ryan, Johnny",johnny.ryan87@mail.example.org,(978) 555-7541,customer,FALSE,03/08/2024,Boston,5a589b0f-69ac-4256-aea8-df379845f417
+C-100098,Wyatt Bates,wyatt.bates58@mail.example.org,,customer,FALSE,05/31/2024,Boston,cbda2de6-06db-4a9f-91af-cc36e8ba0bad
+C-100663,"Cox, Kathryn",kathryn.cox51@mail.example.org,(305) 555-0188,customer,FALSE,10/15/2024,Miami,
+C-100782,Michelle Herring,michelle.herring52@inbox.example.net,(305) 555-3197,customer,FALSE,04/07/2025,Miami,
+C-100426,Christopher Mitchell,christopher.mitchell25@mail.example.org,(239) 555-1553,customer,TRUE,11/25/2024,Miami,485b6c22-4f0b-4e0f-bfba-0c9d38a0122d
+C-100324, Heather Ferguson ,heather.ferguson78@inbox.example.net,(407) 555-4943,customer,TRUE,12/09/2024,Miami,
+C-100613,Billy Burton,BILLYB320@EXAMPLE.COM,(305) 555-6296,customer,TRUE,06/15/2024,Miami,
+C-100778,Rebecca Warren,rebeccaw188@example.com,(207) 555-0729,customer,TRUE,02/18/2025,Boston,
+C-100741,Jody Hale,jody.hale40@example.com,,customer,FALSE,11/17/2024,Miami,
+C-100753,"Washington, Kristi",kristi.washington10@mail.example.org,(617) 555-1972,customer,TRUE,07/24/2025,Boston,
+C-100179,Caitlyn Hill,caitlyn.hill35@example.com,(978) 555-4684,customer,TRUE,10/08/2024,Boston,890861ac-5e77-4568-aaff-807b37e6f872
+C-100696,Ashley Meyer,ashley.meyer80@example.com,(305) 555-7855,customer,TRUE,03/26/2025,Miami,
+C-100892,Emerson Silva,emerson.silva780@example.com,,lead,TRUE,12/19/2024,Boston,
+C-100760,Martin Henderson,martin.henderson34@inbox.example.net,(813) 555-3521,customer,TRUE,10/28/2024,Miami,0edeaba5-35f3-4e68-98ca-f412d9cd14b5
+C-100430,Mary Mills,mary.mills40@example.com,(407) 555-3101,customer,FALSE,09/20/2024,Miami,1d94038e-346e-4263-a10f-7fa4e5d1179e
+C-100427,Lindsay Noble,lindsay.noble38@mail.example.org,,customer,FALSE,11/18/2024,Miami,
+C-100835,Rowan Schmidt,rowan.schmidt99@example.com,,lead,TRUE,01/17/2025,Denver,
+C-100781,Brian Mcdonald,brian.mcdonald34@mail.example.org,(305) 555-0756,customer,FALSE,02/26/2025,Miami,
+C-100434,MINDY WAGNER,mindy.wagner81@mail.example.org,(407) 555-2262,customer,FALSE,02/02/2025,Miami,
+C-100625, Kelly Holmes ,kelly.holmes21@inbox.example.net,(617) 555-8795,customer,TRUE,09/28/2024,Boston,
+C-100447,Stacy Ferguson,stacy.ferguson36@inbox.example.net,(813) 555-8358,customer,TRUE,02/26/2025,Miami,
+C-100660,"Solis, Stephen",stephens161@example.com,(305) 555-7986,customer,FALSE,06/19/2025,Miami,
+C-100264,"Chaney, Scott",scott.chaney63@mail.example.org,(401) 555-1436,customer,TRUE,11/21/2024,Boston,e039c2ef-fe4c-4d60-97ee-99d043299f0e
+C-100792,GINA GREEN,GINA.GREEN59@INBOX.EXAMPLE.NET,(813) 555-7165,customer,FALSE,12/09/2024,Miami,a296a891-b126-44e1-a271-9228cc28b3bc
+C-100086,Kenneth Hudson DDS,kenneth.hudsondds75@example.com,(617) 555-8798,customer,TRUE,02/09/2024,Boston,
+C-100638, Samuel Thomas ,samuel.thomas51@mail.example.org,(617) 555-1092,customer,FALSE,06/17/2025,Boston,
+C-100138,JAMES GARDNER,JAMES.GARDNER43@EXAMPLE.COM,(401) 555-4884,customer,TRUE,10/02/2024,Boston,
+C-100464,Brandy Joseph,brandy.joseph61@inbox.example.net,(305) 555-2979,customer,TRUE,05/12/2024,Miami,3a1577eb-7860-498f-936a-da13e16cbd8c
+C-100329,Sandra Myers,sandra.myers60@inbox.example.net,,customer,FALSE,02/24/2024,Miami,
+C-100769,Charles Carpenter,charles.carpenter90@mail.example.org,(305) 555-2898,customer,TRUE,01/17/2025,Miami,1c8233dc-8ccb-4d27-84e7-e00d33ff6674
+C-100783,Joseph Sanchez,joseph.sanchez18@example.com,(407) 555-2784,customer,FALSE,06/26/2025,Miami,05d8d4ba-5569-4f0e-985d-5f63fbfee659
+C-100824,Morgan Rossi,morgan.rossi143@example.com,(617) 555-7111,lead,FALSE,05/29/2025,,
+C-100379,"Marsh, Robert",robert.marsh20@mail.example.org,(305) 555-5710,customer,TRUE,04/19/2025,Miami,cbd53684-acf0-447d-b61b-35f8bcde6edf
+C-100063,JESSICA LEWIS,JESSICA.LEWIS46@EXAMPLE.COM,(617) 555-5992,customer,TRUE,08/27/2024,Boston,
+C-100565,MATTHEW WALKER,matthew.walker93@example.com,(407) 555-4309,customer,FALSE,02/23/2025,Miami,
+C-100394,NICHOLAS JONES,NICHOLAS.JONES74@INBOX.EXAMPLE.NET,(305) 555-2748,customer,TRUE,03/31/2024,Miami,
+C-100114,JOSHUA GALLAGHER,JOSHUA.GALLAGHER89@MAIL.EXAMPLE.ORG,(207) 555-6446,customer,FALSE,05/15/2024,Boston,9094466a-3714-44da-802d-85c2317b80e5
+C-100913,Riley Rossi,RILEY.ROSSI472@EXAMPLE.COM,(305) 555-6443,lead,TRUE,05/04/2025,Dallas,
+C-100302,Elizabeth David,elizabeth.david25@inbox.example.net,(617) 555-2406,customer,FALSE,11/17/2024,Boston,
+C-100034,Kristin Mcintyre,kristin.mcintyre62@example.com,(617) 555-7600,customer,TRUE,08/14/2024,Boston,
+C-100059,Jessica Richard,jessica.richard28@example.com,,customer,FALSE,10/07/2023,Boston,
+C-100748,"Garcia, George",george.garcia27@example.com,(978) 555-5516,customer,FALSE,10/16/2024,Boston,c1d42cf2-74d9-44b1-a0a2-c85935c413be
+C-100496, John Dunn ,JOHN.DUNN34@INBOX.EXAMPLE.NET,(813) 555-1484,customer,FALSE,07/22/2024,Miami,
+C-100704,"Briggs, Cheyenne",cheyenne.briggs59@mail.example.org,(305) 555-1908,customer,FALSE,01/11/2025,Miami,
+C-100093,Derek Smith,DEREK.SMITH79@INBOX.EXAMPLE.NET,(978) 555-8398,customer,FALSE,02/14/2024,Boston,
+C-100648,Nathan Howard,nathan.howard95@inbox.example.net,,customer,TRUE,06/22/2025,Miami,
+C-100593,Deborah Jackson,,(401) 555-1882,subscriber,TRUE,08/31/2025,Boston,
+C-100165,Sharon Sawyer,sharon.sawyer38@inbox.example.net,(207) 555-7580,customer,TRUE,10/14/2024,Boston,
+C-100171,"Ross, Peter",,(617) 555-0993,customer,FALSE,05/01/2024,Boston,
+C-100646,Miguel Ruiz,,(401) 555-0786,customer,TRUE,01/17/2025,Boston,03710ca1-feb1-4206-bd26-3bb8e6a1dac2
+C-100686,"Erin Turner, Dr.",dr.erinturner92@example.com,,customer,TRUE,03/29/2025,Boston,
+C-100735,Grant Poole,GRANT.POOLE42@MAIL.EXAMPLE.ORG,(305) 555-9330,customer,TRUE,08/31/2024,Miami,
+C-100713,"Wells, Brittany",brittany.wells15@inbox.example.net,(239) 555-7186,customer,TRUE,11/24/2024,Miami,
+C-100342,Kimberly Coleman,kimberly.coleman4@mail.example.org,(407) 555-5849,customer,FALSE,05/08/2024,Miami,
+C-100818,Avery Patel,avery.patel772@example.com,,lead,FALSE,01/16/2025,Miami,
+C-100180,Martin Cook,martin.cook93@inbox.example.net,,customer,TRUE,11/21/2023,Boston,3bfe5d2b-8ab3-473f-b56c-cdd86fff8877
+C-100126,Matthew Chapman,MATTHEW.CHAPMAN1@INBOX.EXAMPLE.NET,(617) 555-7654,customer,FALSE,06/21/2024,Boston,4671e25f-30dd-4e69-bd9f-8b7f48135732
+C-100036,Susan Castillo,susan.castillo4@inbox.example.net,(617) 555-6914,customer,TRUE,07/30/2024,Boston,
+C-100157,Ryan Carpenter,ryan.carpenter10@example.com,(401) 555-7338,customer,FALSE,04/07/2024,Boston,
+C-100863,Riley Silva,riley.silva982@example.com,,lead,FALSE,06/18/2025,,
+C-100750,Amy Roberts,,(305) 555-3059,customer,TRUE,09/14/2024,Miami,7863e37d-24c8-4e18-8730-ea7e2a65606d
+C-100524,Dillon Jennings,DILLON.JENNINGS12@MAIL.EXAMPLE.ORG,(401) 555-8031,customer,FALSE,02/09/2025,Boston,
+C-100074,Brenda Miller,,(978) 555-1793,customer,FALSE,09/03/2023,Boston,58491188-36e5-4fb3-ab3b-514e78a270a6
+C-100629,Brandon Alvarado,,(305) 555-3182,subscriber,TRUE,07/21/2025,Miami,
+C-100420,Brian Lopez,,(813) 555-8597,customer,FALSE,08/23/2024,Miami,51d5c171-5764-4f95-8919-dd46d204df4b
+C-100139,James Gardner,,(401) 555-4884,subscriber,FALSE,12/31/2024,Boston,
+C-100570, Robert Mitchell ,robert.mitchell64@inbox.example.net,,customer,TRUE,10/19/2024,Miami,e6debecd-a5cf-4ced-957e-7fb31720480c
+C-100072,Brad Williamson,brad.williamson66@example.com,(617) 555-4093,customer,TRUE,10/25/2023,Boston,fd788ea1-7f9f-477b-b5fa-9a64962eb7f0
+C-100444,Mrs. Stephanie Riley,mrs.stephanieriley54@mail.example.org,(239) 555-8222,customer,FALSE,01/04/2025,Miami,
+C-100841,Sage Kim,SAGE.KIM977@EXAMPLE.COM,,lead,TRUE,01/04/2025,Miami,
+C-100381,Stanley James,STANLEY.JAMES52@INBOX.EXAMPLE.NET,(305) 555-9453,customer,TRUE,08/22/2024,Miami,cd8175bc-ff34-4742-8b86-61ec290e632f
+C-100336,JORDAN MCCULLOUGH,JORDAN.MCCULLOUGH84@INBOX.EXAMPLE.NET,,customer,TRUE,04/22/2025,Miami,
+C-100154,"Matthew Hancock, Dr.",dr.matthewhancock48@inbox.example.net,(401) 555-7468,customer,TRUE,08/07/2024,Boston,875e080f-6237-421c-b26b-433b3b0c6584
+C-100837,Emerson Patel,emerson.patel426@example.com,,lead,FALSE,08/16/2025,Miami,
+C-100049,Emma Mitchell,EMMA.MITCHELL88@EXAMPLE.COM,(978) 555-7724,customer,TRUE,09/23/2024,Boston,a7cebb21-0f26-4834-8a09-e3269b21a77b
+C-100404,"Wells, Daniel",daniel.wells16@inbox.example.net,(813) 555-5287,customer,TRUE,02/28/2024,Miami,
+C-100100,"Fox, Jose",jose.fox28@example.com,(617) 555-7466,customer,TRUE,09/25/2023,Boston,
+C-100800,Eddie Brown,eddie.brown70@mail.example.org,(305) 555-4873,customer,FALSE,08/31/2025,Miami,
+C-100399,Miguel Evans,miguel.evans13@inbox.example.net,,customer,FALSE,04/14/2024,Miami,
+C-100900,Avery Garcia,avery.garcia298@example.com,(720) 555-7888,lead,TRUE,12/06/2024,Miami,
+C-100575, Karen Howell ,karen.howell14@inbox.example.net,(305) 555-0264,customer,TRUE,10/25/2024,Miami,fd12529b-56bd-40cf-a742-a90ad36add5e
+C-100371,Tony Murphy,,(813) 555-1951,subscriber,TRUE,09/30/2024,Miami,
+C-100717,Robert Carter,robert.carter59@inbox.example.net,(305) 555-7010,customer,TRUE,02/04/2025,Miami,8c39c27b-eb7a-452f-9581-a78bdf3ed9eb
+C-100319,Christopher Benitez,christopher.benitez30@mail.example.org,(813) 555-0856,customer,TRUE,09/18/2024,Miami,
+C-100579,VICTORIA RUSSO,victoria.russo46@inbox.example.net,(305) 555-2330,customer,FALSE,04/16/2025,Miami,ce8210c0-c537-4fd0-80ef-c3e8063b748a
+C-100436,Faith Duncan,faith.duncan64@inbox.example.net,(407) 555-6197,customer,FALSE,04/19/2025,Miami,
+C-100623,Renee Price,,(305) 555-6322,customer,TRUE,08/25/2024,Miami,
+C-100331,PATRICIA WILLIAMSON,,(305) 555-6324,customer,TRUE,06/04/2024,Miami,
+C-100233,"Barnes, Casey",casey.barnes38@mail.example.org,,customer,TRUE,11/19/2024,Boston,
+C-100377,Edward Young,edward.young26@mail.example.org,(305) 555-7965,customer,TRUE,10/25/2024,Miami,
+C-100192, Dale Berry ,DALE.BERRY82@EXAMPLE.COM,(617) 555-2147,customer,TRUE,11/20/2024,Boston,
+C-100213,Karen Obrien,karen.obrien2@example.com,(401) 555-6072,customer,TRUE,02/04/2024,Boston,8f40d15b-7ab5-4fdb-b9a0-767514af456f
+C-100257,Stephen Archer,stephen.archer91@example.com,(401) 555-7748,customer,TRUE,08/10/2024,Boston,64fec69e-52e2-471f-9fbc-7a8e33f991bd
+C-100201, Jeffery Harrison ,jeffery.harrison38@mail.example.org,(617) 555-9856,customer,TRUE,03/26/2024,Boston,
+C-100916,Jordan Patel,jordan.patel167@example.com,(305) 555-2285,lead,FALSE,11/11/2024,Seattle,
+C-100605,Jason Richards,JASON.RICHARDS6@EXAMPLE.COM,(401) 555-0568,customer,TRUE,06/13/2024,Boston,670a79a3-05fc-4a33-8b9d-1b6df80347f4
+C-100357, Wyatt Carter ,wyattc604@example.com,(305) 555-1136,customer,TRUE,06/09/2024,Miami,
+C-100817,Sage Patel,sage.patel608@example.com,,lead,FALSE,05/19/2025,Denver,
+C-100790,Lee Hill,,(239) 555-3693,subscriber,TRUE,01/14/2025,Miami,
+C-100851,Avery Schmidt,avery.schmidt462@example.com,,lead,TRUE,03/11/2025,Miami,
+C-100532, Edward Carrillo ,edward.carrillo90@mail.example.org,,customer,FALSE,08/26/2024,Miami,
+C-100533,Tracie Martinez,TRACIE.MARTINEZ32@MAIL.EXAMPLE.ORG,(617) 555-2674,customer,FALSE,05/02/2024,Boston,9e22e2d2-ef3f-4b75-8aa0-f3ae453183e1
+C-100583, James Cook ,JAMES.COOK42@EXAMPLE.COM,(407) 555-4016,customer,TRUE,02/01/2025,Miami,
+C-100905,Riley Rossi,riley.rossi690@example.com,,lead,TRUE,11/25/2024,Dallas,
+C-100122, Melvin Ingram ,MELVIN.INGRAM40@MAIL.EXAMPLE.ORG,(617) 555-6338,customer,FALSE,11/11/2024,Boston,
+C-100365,Cynthia Thomas,,(305) 555-0971,subscriber,FALSE,05/02/2025,Miami,
+C-100855,Sage Patel,sage.patel763@example.com,,lead,TRUE,10/25/2024,,
+C-100276,Jacob Brown,jacob.brown66@inbox.example.net,(617) 555-8708,customer,FALSE,07/24/2024,Boston,9c98b2d4-f4f3-440f-b28d-0e1ca7a152a5
+C-100346,NANCY JACKSON,nancy.jackson59@inbox.example.net,(305) 555-6503,customer,TRUE,12/13/2024,Miami,
+C-100820,Jordan Silva,jordan.silva300@example.com,,lead,TRUE,06/04/2025,Austin,
+C-100145,Alex Taylor,alext275@example.com,(617) 555-8230,customer,FALSE,10/23/2024,Boston,
+C-100422,FRANCISCO MEYER,francisco.meyer5@example.com,(813) 555-3657,customer,FALSE,08/31/2024,Miami,
+C-100364,Cynthia Thomas,cynthia.thomas17@inbox.example.net,(305) 555-0971,customer,TRUE,11/18/2024,Miami,
+C-100005,Michael Mendoza,MICHAEL.MENDOZA61@EXAMPLE.COM,(617) 555-7449,customer,TRUE,06/19/2024,Boston,
+C-100182,"Roberts, Christina",christina.roberts88@example.com,(617) 555-1493,customer,FALSE,06/21/2024,Boston,
+C-100231,KELSEY MILLER,kelsey.miller48@mail.example.org,(617) 555-3476,customer,TRUE,01/31/2024,Boston,
+C-100506,"Vang, Karla",karla.vang46@example.com,(813) 555-8639,customer,TRUE,01/16/2025,Miami,
+C-100092,Wesley Jenkins,wesleyj832@example.com,(617) 555-1762,customer,TRUE,12/05/2023,Boston,e6ef189a-76de-4ef5-ace2-676d69273e22
+C-100094,April Curtis,april.curtis30@example.com,(401) 555-8966,customer,TRUE,02/07/2024,Boston,
+C-100872,Avery Kim,avery.kim86@example.com,,lead,TRUE,03/11/2025,Boston,
+C-100503,Hannah Davis,HANNAH.DAVIS24@EXAMPLE.COM,(207) 555-9131,customer,TRUE,11/01/2024,Boston,a3f993fd-aeaa-43c7-9e5c-9ad7b7c0f8d9
+C-100080,Aaron Wilson,aaronw131@example.com,,customer,FALSE,07/16/2024,Boston,2030e11b-f809-402e-8a1e-00aa3cb751da
+C-100296,"Parker, Brandon",brandon.parker37@example.com,(207) 555-1837,customer,TRUE,04/07/2024,Boston,
+C-100452,Melissa Pearson,melissa.pearson43@mail.example.org,(305) 555-0866,customer,FALSE,05/20/2024,Miami,
+C-100775,Lawrence Brown,lawrence.brown2@mail.example.org,(617) 555-5983,customer,FALSE,06/27/2025,Boston,2949aa7a-85ad-46d1-8409-bf608167f72a
+C-100367,Jean Hansen,jean.hansen67@inbox.example.net,(813) 555-0643,customer,TRUE,07/18/2024,Miami,e52a8700-3ab9-4c47-8a16-e799e997a931
+C-100759,Linda Thompson,LINDA.THOMPSON11@INBOX.EXAMPLE.NET,(305) 555-3975,customer,FALSE,08/18/2024,Miami,
+C-100374,"Pierce, Trevor",trevor.pierce27@inbox.example.net,(407) 555-3643,customer,TRUE,06/03/2024,Miami,5b070f80-9227-43fd-951b-4c758d20070e
+C-100020,Nancy Hernandez MD,nancy.hernandezmd66@example.com,(401) 555-2070,customer,TRUE,10/20/2023,Boston,0b4a904c-b6d7-4355-b1ff-3744b3831112
+C-100849,Emerson Schmidt,emerson.schmidt54@example.com,(617) 555-6967,lead,FALSE,12/19/2024,Boston,
+C-100743, David Thornton ,david.thornton64@example.com,(305) 555-3221,customer,TRUE,11/01/2024,Miami,
+C-100582,Kelli Williams,kelli.williams94@inbox.example.net,(305) 555-5138,customer,FALSE,01/09/2025,Miami,8639eac0-9cd8-4fe5-9e10-8526a16018d1
+C-100476,"Daniel, Brenda",brenda.daniel51@example.com,(305) 555-4182,customer,TRUE,01/24/2025,Miami,
+C-100017,Joseph Mcintyre,joseph.mcintyre96@inbox.example.net,(617) 555-5284,customer,TRUE,09/25/2024,Boston,
+C-100823,Casey Rossi,CASEY.ROSSI87@EXAMPLE.COM,,lead,FALSE,01/14/2025,,
+C-100483,Carol Vasquez,carol.vasquez4@mail.example.org,(239) 555-1292,customer,TRUE,05/20/2024,Miami,
+C-100777, Tina Grant ,tina.grant3@inbox.example.net,(407) 555-7141,customer,TRUE,01/02/2025,Miami,
+C-100215,Ashley Bradley,ashley.bradley77@mail.example.org,(207) 555-4179,customer,TRUE,09/02/2024,Boston,2ef9867e-e76c-4d07-8089-7935ba03ca03
+C-100424,"Ferguson, Timothy",timothy.ferguson59@inbox.example.net,(813) 555-2446,customer,FALSE,06/26/2024,Miami,303bc5db-08d0-4431-b6df-29c80d0321da
+C-100129,Dr. Maria Moreno MD,dr.mariamorenomd98@example.com,(617) 555-9504,customer,FALSE,02/03/2024,Boston,
+C-100706,Carrie Mueller,carrie.mueller38@mail.example.org,(305) 555-6068,customer,TRUE,02/03/2025,Miami,8976b896-e0e8-4696-b268-5587e42efaa0
+C-100726,Christopher Ellis,christopher.ellis63@example.com,,customer,TRUE,09/26/2024,Boston,20ae953d-06b1-4034-a24c-a173911af24e
+C-100232,Christopher Schmidt,christopher.schmidt66@inbox.example.net,(617) 555-2481,customer,TRUE,03/08/2024,Boston,
+C-100205,"Gonzalez, Cody",cody.gonzalez35@inbox.example.net,(401) 555-6431,customer,FALSE,06/09/2024,Boston,fa08fd03-3569-400d-9d63-e8ae15712195
+C-100186, Curtis Moore ,curtism983@example.com,(401) 555-9350,customer,FALSE,11/30/2023,Boston,
+C-100856,Sage Patel,sage.patel774@example.com,(720) 555-3860,lead,FALSE,06/24/2025,Austin,
+C-100333,Reginald Smith,REGINALD.SMITH91@INBOX.EXAMPLE.NET,(407) 555-0579,customer,TRUE,04/16/2024,Miami,
+C-100722,Jeffrey Foster,jeffrey.foster16@inbox.example.net,(813) 555-0778,customer,TRUE,08/02/2025,Miami,
+C-100716,Amanda Harper,,(813) 555-3825,subscriber,TRUE,03/01/2025,Miami,
+C-100256, Stephanie Williams ,stephanie.williams65@mail.example.org,(617) 555-9197,customer,FALSE,06/18/2024,Boston,6058494e-8390-41a7-9c1b-182902dda8db
+C-100929,Quinn Cohen,QUINN.COHEN702@EXAMPLE.COM,,lead,TRUE,05/18/2025,Boston,
+C-100917,Morgan Murphy,morgan.murphy438@example.com,(617) 555-1861,lead,FALSE,04/24/2025,,
+C-100390,AUDREY MARSHALL,audrey.marshall33@inbox.example.net,,customer,TRUE,06/28/2024,Miami,e215d555-cc18-4890-8969-89abf72d28ae
+C-100141,Brendan Hawkins,brendan.hawkins17@example.com,(617) 555-7838,customer,FALSE,01/06/2024,Boston,
+C-100410,Charles Edwards,,(305) 555-0862,subscriber,FALSE,10/03/2024,Miami,
+C-100832,Riley Schmidt,riley.schmidt315@example.com,(305) 555-6790,lead,TRUE,07/22/2025,Miami,
+C-100135,Jennifer Garcia,jennifer.garcia89@inbox.example.net,(978) 555-7775,customer,FALSE,10/23/2024,Boston,
+C-100193,VINCENT CLARK,vincent.clark31@mail.example.org,(617) 555-0266,customer,FALSE,11/25/2024,Boston,
+C-100255,Gregory Werner,gregory.werner77@example.com,,customer,FALSE,11/08/2024,Boston,d5e5a6a6-cb8d-4d62-8551-298dee7f1f9f
+C-100720,COLE KELLY,COLE.KELLY80@MAIL.EXAMPLE.ORG,,customer,FALSE,12/07/2024,Miami,
+C-100826,Riley Cohen,riley.cohen857@example.com,(617) 555-1090,lead,TRUE,04/26/2025,Miami,
+C-100341,Michelle Tran,michelle.tran61@mail.example.org,(305) 555-4618,customer,TRUE,05/07/2024,Miami,
+C-100470,Glenn Galvan,GLENN.GALVAN88@MAIL.EXAMPLE.ORG,(305) 555-1266,customer,FALSE,08/19/2024,Miami,
+C-100535,Paul Barnes,paul.barnes29@mail.example.org,(813) 555-0859,customer,TRUE,07/30/2024,Miami,31d39d83-97c5-4a86-8d98-c9ea5e4d6505
+C-100012,Brittany Johnson,brittany.johnson43@inbox.example.net,(207) 555-6279,customer,TRUE,04/16/2024,Boston,cc1816db-c3dd-4c16-8ea7-18fe313472b9
+C-100370,TONY MURPHY,TONY.MURPHY51@MAIL.EXAMPLE.ORG,(813) 555-1951,customer,TRUE,05/27/2024,Miami,
+C-100492,DAVID PERRY,david.perry15@mail.example.org,(305) 555-3070,customer,FALSE,11/04/2024,Miami,
+C-100040,"Davis, Melissa",melissa.davis45@inbox.example.net,(401) 555-6349,customer,TRUE,12/23/2023,Boston,
+C-100595,Patricia Smith,patricia.smith6@example.com,(305) 555-9266,customer,TRUE,07/26/2024,Miami,
+C-100442,Diana Robinson,diana.robinson90@mail.example.org,(813) 555-2444,customer,TRUE,01/31/2025,Miami,d3adc9f1-fd4e-45ad-9d75-0919a6617f7a
+C-100105,Alexis Cervantes,alexis.cervantes27@inbox.example.net,(617) 555-4626,customer,FALSE,11/02/2023,Boston,
+C-100389,SCOTT YOUNG,scott.young37@mail.example.org,(239) 555-9404,customer,TRUE,09/01/2024,Miami,19d5ac88-a8cd-46b8-9f3d-d5ef3a0adfe2
+C-100756,"Young, Joel",joel.young60@example.com,(239) 555-2666,customer,TRUE,08/04/2024,Miami,
+C-100267,Kimberly Jackson,,,subscriber,TRUE,02/14/2025,Boston,
+C-100079,Christina Rollins,christina.rollins44@inbox.example.net,(401) 555-3116,customer,FALSE,05/07/2024,Boston,
+C-100798,Derek Hunter,derek.hunter13@example.com,(305) 555-5313,customer,FALSE,01/27/2025,Miami,
+C-100456,Susan Humphrey,SUSAN.HUMPHREY30@MAIL.EXAMPLE.ORG,(305) 555-1101,customer,TRUE,10/25/2024,Miami,d7615aca-6de3-4a17-8fd0-212330ca9c28
+C-100345, Madeline Smith ,madeline.smith82@mail.example.org,(813) 555-0599,customer,FALSE,05/27/2024,Miami,
+C-100644,COLIN CAMPOS,colin.campos79@mail.example.org,(407) 555-5747,customer,FALSE,06/10/2024,Miami,
+C-100069,Katherine Odom,KATHERINE.ODOM73@INBOX.EXAMPLE.NET,(978) 555-8134,customer,TRUE,11/12/2023,Boston,
+C-100009,Jacqueline Pineda,jacqueline.pineda71@mail.example.org,(207) 555-3943,customer,TRUE,01/06/2024,Boston,69731d27-9caa-46cf-8933-d01e29b20043
+C-100303,"Jones, Kyle",kyle.jones23@example.com,(207) 555-7500,customer,FALSE,01/17/2025,Boston,
+C-100471,Katherine Spencer,KATHERINE.SPENCER7@INBOX.EXAMPLE.NET,(813) 555-7925,customer,TRUE,05/09/2025,Miami,
+C-100052,KELLY SINGH,kelly.singh43@inbox.example.net,(207) 555-2979,customer,TRUE,06/28/2024,Boston,847d46dd-9721-4351-8bef-5c2292b57d6f
+C-100626,Ashley Jenkins,ashley.jenkins11@inbox.example.net,(407) 555-9455,customer,FALSE,04/24/2025,Miami,
+C-100384,ALEXIS GUTIERREZ,alexis.gutierrez87@inbox.example.net,(305) 555-2119,customer,FALSE,06/20/2024,Miami,466ab61a-8180-4d06-90cc-2a380a0e6f0f
+C-100719,Patrick Walls,patrick.walls12@mail.example.org,(978) 555-1180,customer,FALSE,10/17/2024,Boston,b9915f58-4f74-4518-bb97-0b1e58c541a5
+C-100789,Lee Hill,lee.hill55@mail.example.org,(239) 555-3693,customer,FALSE,11/21/2024,Miami,2f162c0f-4d00-4d10-88ca-6dd2b94f24f5
+C-100251,Shelby Gonzalez,SHELBY.GONZALEZ63@INBOX.EXAMPLE.NET,(207) 555-7112,customer,TRUE,09/30/2024,Boston,ef7f92e8-2f80-4e44-9e56-9ee276819791
+C-100687,Ashley Lam,ASHLEYL595@EXAMPLE.COM,(978) 555-3361,customer,FALSE,08/23/2024,Boston,
+C-100466, Steven Hall ,steven.hall56@example.com,(305) 555-9516,customer,FALSE,12/19/2024,Miami,
+C-100642,Amanda Chapman,AMANDA.CHAPMAN28@INBOX.EXAMPLE.NET,(407) 555-2854,customer,FALSE,09/17/2024,Miami,7b4010bf-8e77-489c-83e9-0056299e9429
+C-100306,Richard Li,richard.li49@mail.example.org,(305) 555-7612,customer,FALSE,04/08/2025,Miami,
+C-100013,ASHLEY SANTIAGO,ashley.santiago21@mail.example.org,(617) 555-4421,customer,FALSE,08/27/2024,Boston,1bf35f99-4627-4c80-a5f8-0797538eaf54
+C-100700,Joshua Proctor,joshua.proctor33@inbox.example.net,(305) 555-6890,customer,FALSE,01/29/2025,Miami,
+C-100281,Rhonda Gomez,rhonda.gomez11@inbox.example.net,(617) 555-5194,customer,TRUE,07/12/2024,Boston,
+C-100799,Wyatt Hickman,wyatt.hickman41@mail.example.org,(239) 555-3345,customer,TRUE,12/27/2024,Miami,
+C-100867,Hayden Garcia,hayden.garcia350@example.com,(305) 555-5378,lead,FALSE,03/17/2025,Dallas,
+C-100785,MARTHA JOHNSON,martha.johnson14@mail.example.org,(401) 555-0724,customer,TRUE,03/05/2025,Boston,42748981-2a95-4e95-91cf-9844c8aa9c69
+C-100804,Michael Flores,,(305) 555-7904,subscriber,FALSE,08/31/2025,Miami,
+C-100767,"Patterson, Karen",karenp576@example.com,(207) 555-5650,customer,FALSE,07/25/2024,Boston,447fed8a-4bae-41c5-b5cd-cbf6a09c4782
+C-100588,George Sanchez,george.sanchez35@example.com,(305) 555-2580,customer,TRUE,06/21/2024,Miami,49421d99-2baa-4a3f-bbff-4e4d4e0062aa
+C-100591,Dr. Chad Chavez,dr.chadchavez4@example.com,(617) 555-5026,customer,FALSE,08/02/2024,Boston,f55982fc-a2f7-407d-b845-3b32df0463f7
+C-100622,Anthony Silva,anthony.silva40@inbox.example.net,(305) 555-6791,customer,FALSE,09/18/2024,Miami,
+C-100131,CASEY MARTINEZ,,(617) 555-8126,customer,FALSE,09/03/2023,Boston,15b9a6ba-816d-4956-936f-2894eff8b72d
+C-100315,Tricia Garcia,TRICIA.GARCIA97@INBOX.EXAMPLE.NET,(305) 555-9016,customer,TRUE,05/26/2024,Miami,
+C-100203,"Stephens, Angela",ANGELA.STEPHENS2@EXAMPLE.COM,(978) 555-4348,customer,TRUE,11/28/2024,Boston,017413ff-58e5-4097-93e6-84f98038b20b
+C-100568,DUANE MYERS,duane.myers49@example.com,(407) 555-7408,customer,FALSE,03/02/2025,Miami,
+C-100811,Jaime Hester,jaime.hester41@example.com,(207) 555-7214,customer,FALSE,08/21/2024,Boston,
+C-100270,Alexandria Jarvis,ALEXANDRIA.JARVIS23@INBOX.EXAMPLE.NET,(617) 555-6399,customer,TRUE,03/28/2024,Boston,40c4aa0f-6d19-4084-820c-5764f87d9184
+C-100043,MISTY LEE,MISTY.LEE40@MAIL.EXAMPLE.ORG,(207) 555-8962,customer,TRUE,07/18/2024,Boston,ddd9ed38-6351-4568-b08c-8f6c92cb84a8
+C-100354,Emily Dunlap,EMILY.DUNLAP23@MAIL.EXAMPLE.ORG,,customer,TRUE,08/27/2024,Miami,
+C-100274,Victor Ramos,victor.ramos4@inbox.example.net,(401) 555-1830,customer,TRUE,10/30/2024,Boston,
+C-100007,Connie Harrison,connie.harrison25@example.com,(617) 555-1482,customer,FALSE,05/18/2024,Boston,
+C-100403,"Ward, Johnny",johnny.ward96@mail.example.org,(305) 555-1402,customer,TRUE,05/10/2024,Miami,
+C-100733,Jeremiah Smith,jeremiah.smith18@inbox.example.net,(239) 555-8739,customer,TRUE,10/25/2024,Miami,d2d5925b-c91a-440d-a613-0c76f88845cc
+C-100385,Melanie Riggs,melanie.riggs29@inbox.example.net,(305) 555-1556,customer,FALSE,03/20/2024,Miami,f4c0d073-250c-455a-a84a-848e56ae7048
+C-100866,Emerson Nguyen,emerson.nguyen378@example.com,(617) 555-0603,lead,FALSE,04/12/2025,Seattle,
+C-100831,Sage Silva,sage.silva447@example.com,(305) 555-9642,lead,TRUE,06/16/2025,Dallas,
+C-100886,Hayden Garcia,hayden.garcia386@example.com,,lead,TRUE,07/29/2025,Miami,
+C-100666,DENNIS JOHNSON,DENNISJ394@EXAMPLE.COM,,customer,FALSE,02/13/2025,Miami,
+C-100349,Adam Roberts,ADAM.ROBERTS29@MAIL.EXAMPLE.ORG,(407) 555-9069,customer,FALSE,11/30/2024,Miami,
+C-100515, Kristina Snow ,kristina.snow60@example.com,(617) 555-9760,customer,TRUE,04/04/2024,Boston,333d41f0-5f4d-48cb-b3bd-042814f9b7f8
+C-100378,Duane Martin,duane.martin54@mail.example.org,(305) 555-9416,customer,TRUE,04/13/2024,Miami,
+C-100273, Elizabeth Montgomery ,,(207) 555-1442,customer,FALSE,06/19/2024,Boston,
+C-100445,COREY FRANCIS,corey.francis79@mail.example.org,(407) 555-9541,customer,FALSE,02/23/2025,Miami,1a1fa253-a2de-457a-9397-7c6c80d5d589
+C-100440,"Jackson, Andrea",andrea.jackson93@mail.example.org,(305) 555-9411,customer,TRUE,05/30/2024,Miami,
+C-100387,"Martinez, Cynthia",CYNTHIA.MARTINEZ97@MAIL.EXAMPLE.ORG,(305) 555-3388,customer,TRUE,01/21/2025,Miami,
+C-100771,Julia Sanders,julias627@example.com,(401) 555-7270,customer,TRUE,02/18/2025,Boston,
+C-100527,Blake Matthews,blake.matthews86@inbox.example.net,(401) 555-2370,customer,FALSE,01/23/2025,Boston,36654075-c818-484d-aa9f-b6e8834b1bd5
+C-100507,Robert Cortez,ROBERT.CORTEZ70@INBOX.EXAMPLE.NET,(239) 555-8685,customer,TRUE,12/22/2024,Miami,f6489f0b-4a7a-4dd2-97d4-d0008f662858
+C-100581,Todd Bautista,todd.bautista13@inbox.example.net,(407) 555-3616,customer,TRUE,07/06/2024,Miami,d85d8387-2b7e-46a9-9f28-dad061a5fc01
+C-100153, Lindsey Hunter ,LINDSEYH583@EXAMPLE.COM,(617) 555-7062,customer,TRUE,05/23/2024,Boston,
+C-100679,Lauren Jackson,lauren.jackson75@mail.example.org,(813) 555-5350,customer,TRUE,09/16/2024,Miami,359c05d0-e19d-463d-b3b4-43a0b4a3810f
+C-100142,Michael Acosta,michael.acosta90@mail.example.org,(617) 555-4006,customer,TRUE,12/19/2023,Boston,
+C-100517,Scott Ray,SCOTTR996@EXAMPLE.COM,(305) 555-4099,customer,TRUE,04/13/2024,Miami,
+C-100109,Brad Hogan,brad.hogan75@example.com,(617) 555-7380,customer,FALSE,08/22/2024,Boston,
+C-100045,JOY LAM,JOY.LAM47@MAIL.EXAMPLE.ORG,(978) 555-0103,customer,FALSE,08/21/2024,Boston,
+C-100046,"Shea, Elizabeth",elizabeth.shea98@inbox.example.net,(617) 555-6346,customer,FALSE,05/11/2024,Boston,
+C-100246,RICHARD CANNON,richard.cannon60@inbox.example.net,(401) 555-8090,customer,FALSE,05/04/2024,Boston,
+C-100598,"Brown, Clayton",clayton.brown8@mail.example.org,(305) 555-9423,customer,FALSE,03/09/2025,Miami,
+C-100897,Morgan Patel,MORGAN.PATEL147@EXAMPLE.COM,(617) 555-0965,lead,TRUE,09/01/2024,Denver,
+C-100223,Diane Marshall,diane.marshall25@mail.example.org,(617) 555-7144,customer,FALSE,01/19/2024,Boston,
+C-100033,Mark Barnett,markb326@example.com,(207) 555-9838,customer,TRUE,09/24/2023,Boston,
+C-100125,Emily Barnes,emily.barnes41@mail.example.org,(617) 555-9567,customer,FALSE,03/29/2024,Boston,7745384f-ccaa-4363-a18b-5e9ff0a824c0
+C-100284,"Williams, Stephanie",stephanie.williams24@mail.example.org,(401) 555-1089,customer,FALSE,02/25/2025,Boston,
+C-100259,Derek Cox,derek.cox26@inbox.example.net,(617) 555-8636,customer,TRUE,08/24/2024,Boston,
+C-100278,John Price,john.price96@mail.example.org,(617) 555-9984,customer,TRUE,05/09/2024,Boston,4cd79f83-9fc7-43e4-a4c1-89402b7124e1
+C-100482,Sean Barnes,sean.barnes2@inbox.example.net,(305) 555-6309,customer,TRUE,08/13/2024,Miami,
+C-100572,Calvin Strong,calvin.strong12@mail.example.org,,customer,FALSE,05/06/2025,Miami,
+C-100311,Courtney Martinez,courtney.martinez47@example.com,(305) 555-2384,customer,FALSE,12/16/2024,Miami,89c10b53-36ee-4f1c-8430-7090dbf04a44
+C-100869,Hayden Kim,hayden.kim741@example.com,(617) 555-9207,lead,FALSE,08/18/2025,Dallas,
+C-100461,Christine Morrison,christine.morrison10@mail.example.org,(305) 555-8527,customer,FALSE,10/16/2024,Miami,103fcba9-e7d7-4b76-b162-0fc8a31cfa6b
+C-100401,Ricky Lawson,,(305) 555-9528,subscriber,TRUE,08/16/2024,Miami,
+C-100330,GREGORY MOORE,gregory.moore10@mail.example.org,,customer,FALSE,06/22/2024,Miami,
+C-100908,Rowan Cohen,ROWAN.COHEN666@EXAMPLE.COM,(617) 555-2022,lead,FALSE,10/02/2024,,
+C-100910,Emerson Schmidt,EMERSON.SCHMIDT668@EXAMPLE.COM,,lead,FALSE,12/24/2024,Seattle,
+C-100602,Barry Mann,barrym515@example.com,(813) 555-6621,customer,TRUE,06/13/2025,Miami,
+C-100703,Luis White,LUIS.WHITE61@MAIL.EXAMPLE.ORG,(813) 555-1838,customer,FALSE,06/26/2024,Miami,
+C-100827,Sage Kim,SAGE.KIM724@EXAMPLE.COM,,lead,FALSE,05/14/2025,Miami,
+C-100635,Kathy Nichols MD,kathy.nicholsmd48@example.com,(813) 555-1002,customer,FALSE,06/06/2025,Miami,
+C-100348,Megan Baker,MEGAN.BAKER9@INBOX.EXAMPLE.NET,(305) 555-2134,customer,FALSE,05/17/2024,Miami,
+C-100481,Michelle Barton,,(305) 555-9469,subscriber,FALSE,08/24/2024,Miami,
+C-100220,Danielle Weaver,DANIELLE.WEAVER92@INBOX.EXAMPLE.NET,(617) 555-4488,customer,TRUE,12/17/2024,Boston,
+C-100834,Rowan Nguyen,rowan.nguyen367@example.com,,lead,FALSE,05/08/2025,,
+C-100184,Amy Garcia,AMY.GARCIA57@EXAMPLE.COM,(617) 555-8516,customer,FALSE,10/07/2024,Boston,19fee9df-73a9-41e9-9777-18d2a79ab8b4
+C-100627,Dana Williams,dana.williams74@example.com,(813) 555-0252,customer,FALSE,08/12/2024,Miami,c3f68ead-12e5-4a95-9f20-2c9529a5f08b
+C-100218, Joshua Wells ,joshua.wells49@mail.example.org,(617) 555-8898,customer,FALSE,08/18/2024,Boston,
+C-100144,Tamara Hinton,tamara.hinton61@inbox.example.net,(978) 555-0751,customer,TRUE,09/03/2024,Boston,
+C-100571,Jacqueline Cuevas,jacqueline.cuevas48@example.com,(305) 555-4322,customer,TRUE,05/24/2024,Miami,
+C-100106,Patrick Thomas,patrick.thomas75@mail.example.org,(401) 555-7868,customer,FALSE,01/17/2024,Boston,
+C-100909,Riley Murphy,riley.murphy185@example.com,(617) 555-8443,lead,TRUE,07/15/2025,Seattle,
+C-100454,Roger Campbell,ROGER.CAMPBELL10@EXAMPLE.COM,(239) 555-4329,customer,TRUE,06/04/2024,Miami,
+C-100807,Chad Garcia,chad.garcia89@example.com,(305) 555-2624,customer,FALSE,06/15/2025,Miami,
+C-100815,Sage Kim,sage.kim6@example.com,,lead,FALSE,12/19/2024,Denver,
+C-100766,Brandy Dennis,brandy.dennis6@inbox.example.net,(407) 555-2182,customer,FALSE,01/01/2025,Miami,a3867ed0-9303-4ce2-b40d-a9711a5efef0
+C-100499,Shannon Yoder,shannon.yoder27@inbox.example.net,(813) 555-5739,customer,TRUE,03/25/2025,Miami,
+C-100830,Quinn Silva,quinn.silva122@example.com,(617) 555-5709,lead,TRUE,04/29/2025,,
+C-100721,Jennifer Erickson,jennifere884@example.com,(617) 555-1186,customer,TRUE,09/01/2024,Boston,
+C-100032,Martin Barnes,,(617) 555-4135,customer,TRUE,01/31/2024,Boston,
+C-100632,"Porter, Jennifer",jennifer.porter97@inbox.example.net,(239) 555-4744,customer,FALSE,04/18/2025,Miami,
+C-100433, Patricia Webb ,patricia.webb90@example.com,,customer,TRUE,05/24/2024,Miami,
+C-100356,Jill Reynolds,jillr917@example.com,(305) 555-7772,customer,FALSE,04/05/2025,Miami,
+C-100169,Mary Pacheco,MARY.PACHECO51@MAIL.EXAMPLE.ORG,(617) 555-5272,customer,FALSE,08/22/2024,Boston,0db82818-585b-4e3f-9898-2a72727c2e42
+C-100586,Michael Khan,michaelk899@example.com,(305) 555-6973,customer,TRUE,04/13/2025,Miami,
+C-100500,Cheryl Jenkins,CHERYL.JENKINS37@MAIL.EXAMPLE.ORG,(305) 555-1895,customer,TRUE,05/17/2024,Miami,
+C-100120,Kathleen Rice,kathleen.rice22@inbox.example.net,(617) 555-2143,customer,FALSE,10/03/2024,Boston,
+C-100894,Riley Murphy,riley.murphy286@example.com,(720) 555-6428,lead,TRUE,07/04/2025,Seattle,
+C-100283,"Francis, Luis",luis.francis30@inbox.example.net,(617) 555-1300,customer,FALSE,09/02/2024,Boston,
+C-100071,Cheryl Campos,CHERYL.CAMPOS50@EXAMPLE.COM,(617) 555-1318,customer,TRUE,08/10/2024,Boston,a970776b-59ce-47ec-9e77-946229a8be45
+C-100376,Valerie Russo,valerie.russo38@inbox.example.net,(305) 555-3193,customer,FALSE,05/31/2024,Miami,bf03895d-6d44-49a2-8183-81c4e89eac75
+C-100491,Richard Lawrence,richard.lawrence76@mail.example.org,(305) 555-7987,customer,TRUE,07/24/2024,Miami,
+C-100805,SHAUN BERRY,shaun.berry65@inbox.example.net,(305) 555-7872,customer,FALSE,05/11/2025,Miami,
+C-100350,"Robertson, Sarah",sarahr270@example.com,(239) 555-9549,customer,TRUE,02/17/2025,Miami,
+C-100117,"Morris, Jacqueline",jacqueline.morris97@mail.example.org,,customer,TRUE,11/11/2023,Boston,
+C-100931,Avery Nguyen,avery.nguyen962@example.com,,lead,FALSE,10/30/2024,Boston,
+C-100788,RICHARD STONE,RICHARD.STONE11@MAIL.EXAMPLE.ORG,(305) 555-9466,customer,TRUE,08/31/2025,Miami,
+C-100596,Danielle Lewis,danielle.lewis39@inbox.example.net,(401) 555-5459,customer,FALSE,06/26/2025,Boston,
+C-100878,Morgan Garcia,morgan.garcia451@example.com,(720) 555-0621,lead,TRUE,05/04/2025,,
+C-100549,John Gilbert,john.gilbert30@mail.example.org,(617) 555-9339,customer,FALSE,10/05/2024,Boston,63b6d2f8-4e38-4b4c-bf67-6651399b4453
+C-100860,Hayden Kim,HAYDEN.KIM235@EXAMPLE.COM,(617) 555-4420,lead,FALSE,06/28/2025,Dallas,
+C-100021,Nicole Jackson,NICOLE.JACKSON34@INBOX.EXAMPLE.NET,,customer,TRUE,09/28/2023,Boston,
+C-100327,"Jones, Noah",noah.jones59@mail.example.org,(813) 555-2164,customer,FALSE,06/06/2024,Miami,c052cca8-a71b-4e49-b713-c012bcfce146
+C-100391,Amanda Young,AMANDA.YOUNG83@MAIL.EXAMPLE.ORG,(813) 555-4282,customer,FALSE,07/24/2024,Miami,3cbc7f74-54e3-47c2-b02f-229f7ca60a5c
+C-100628,Brandon Alvarado,BRANDON.ALVARADO71@EXAMPLE.COM,(305) 555-3182,customer,FALSE,06/15/2025,Miami,2fac4408-7728-454c-94d8-16b7262380b0
+C-100019,Yvonne Watson,yvonne.watson19@inbox.example.net,(978) 555-0885,customer,FALSE,12/19/2023,Boston,
+C-100603,KELLY PEARSON,,(305) 555-0613,customer,FALSE,03/21/2025,Miami,
+C-100119,"Barrera, Justin",justin.barrera27@inbox.example.net,(978) 555-1280,customer,TRUE,03/04/2024,Boston,
+C-100458,James Graham,james.graham96@inbox.example.net,(407) 555-5932,customer,TRUE,09/13/2024,Miami,e60ba363-7c8f-4fba-8c98-2d4952e8fbc5
+C-100320,Kathleen Lucas,kathleen.lucas2@inbox.example.net,(305) 555-8848,customer,TRUE,04/07/2024,Miami,416cd82a-8e13-48b3-a6e1-dadbf5a29d2d
+C-100637,"Reyes, Stephanie",stephanie.reyes60@example.com,(305) 555-8570,customer,FALSE,09/06/2024,Miami,
+C-100462, Patrick Holloway ,patrick.holloway96@mail.example.org,(305) 555-8437,customer,TRUE,07/18/2024,Miami,a0a83e46-f548-4a18-a79a-5ecdd85b6c8e
+C-100431,Lucas Fields,LUCAS.FIELDS99@INBOX.EXAMPLE.NET,(239) 555-0639,customer,FALSE,02/02/2025,Miami,4da311cb-8e0d-487a-8fdd-4a94529db3e4
+C-100099,Garrett Black,garrett.black76@inbox.example.net,(617) 555-2491,customer,FALSE,01/12/2024,Boston,5b2179c5-dd1c-45b4-b99c-10f1c7c201f4
+C-100261,Nicole Curtis,nicole.curtis21@inbox.example.net,,customer,TRUE,12/28/2024,Boston,bd463573-d217-4411-9ac0-8b72bd7609cd
+C-100323,ANGELA ROBERSON,angela.roberson2@mail.example.org,,customer,FALSE,02/24/2025,Miami,425be648-8195-4636-880e-d86e4cd8e38f
+C-100727,Janet Jefferson,janet.jefferson79@inbox.example.net,(813) 555-5559,customer,TRUE,07/24/2025,Miami,
+C-100550,GARY KIRK,GARY.KIRK14@MAIL.EXAMPLE.ORG,(617) 555-7506,customer,TRUE,11/21/2024,Boston,
+C-100279,Alyssa Martinez,alyssa.martinez15@mail.example.org,(617) 555-0183,customer,FALSE,06/20/2024,Boston,f78c30cb-fcda-4209-9aea-0ae7ce4f7b81
+C-100411,Terry Welch,terry.welch84@mail.example.org,(305) 555-7166,customer,TRUE,11/28/2024,Miami,
+C-100675,Brian Smith,brian.smith36@inbox.example.net,(305) 555-4456,customer,FALSE,10/28/2024,Miami,c404f9e5-cfcd-428e-8459-c1e1fd0d586b
+C-100858,Hayden Okafor,hayden.okafor486@example.com,(720) 555-4792,lead,TRUE,04/18/2025,Dallas,
+C-100132,Charlene Robinson,charlene.robinson88@mail.example.org,(617) 555-5278,customer,TRUE,05/30/2024,Boston,
+C-100369,"Dunlap, Courtney",courtneyd494@example.com,(239) 555-8250,customer,TRUE,08/12/2024,Miami,
+C-100414,Victoria Villarreal,VICTORIA.VILLARREAL98@MAIL.EXAMPLE.ORG,(239) 555-4143,customer,FALSE,04/20/2025,Miami,63b14504-d172-4e5e-b0fa-abd9cb43352e
+C-100417,"Williams, Evan",evan.williams4@mail.example.org,(305) 555-0905,customer,FALSE,12/04/2024,Miami,
+C-100653,Kelsey Walker,kelsey.walker47@mail.example.org,(305) 555-7615,customer,FALSE,05/18/2025,Miami,
+C-100636,Mary Jordan,mary.jordan56@mail.example.org,(407) 555-3110,customer,FALSE,10/08/2024,Miami,
+C-100338,MONICA BENDER,monicab469@example.com,(813) 555-3112,customer,TRUE,11/08/2024,Miami,0f708081-5838-40db-84a9-ca8b6845336f
+C-100335,David Nguyen,david.nguyen80@inbox.example.net,(305) 555-7740,customer,TRUE,09/25/2024,Miami,
+C-100187,Ann Yoder,ann.yoder7@inbox.example.net,(617) 555-8780,customer,FALSE,05/04/2024,Boston,
+C-100065,Brian Johnson,BRIAN.JOHNSON96@MAIL.EXAMPLE.ORG,(617) 555-5730,customer,FALSE,06/02/2024,Boston,
+C-100836,Casey Okafor,casey.okafor523@example.com,(617) 555-6160,lead,TRUE,04/06/2025,Boston,
+C-100585,Jack Huynh,jack.huynh39@example.com,(305) 555-1176,customer,FALSE,03/29/2025,Miami,
+C-100698,Walter Allen,walter.allen46@mail.example.org,(305) 555-0585,customer,FALSE,09/22/2024,Miami,46d34d7f-a3a4-4386-89ba-fa5ac15e5a69
+C-100772,Kathy Thompson,kathy.thompson40@mail.example.org,(305) 555-6741,customer,FALSE,11/13/2024,Miami,da9de603-2c96-4356-820d-7c1e9ac4dde7
+C-100084,JEFFREY LOVE,jeffrey.love53@mail.example.org,(617) 555-1759,customer,TRUE,04/10/2024,Boston,
+C-100111,Ryan Byrd,ryan.byrd24@inbox.example.net,(617) 555-8503,customer,FALSE,08/16/2024,Boston,612533b6-7eaf-45a2-b9d4-06192ce5620e
+C-100528,Brian Velasquez,brian.velasquez95@mail.example.org,(207) 555-4557,customer,FALSE,03/22/2024,Boston,7160f724-2528-4ac3-ba79-b6e99e6b8a01
+C-100480,Michelle Barton,,(305) 555-9469,customer,TRUE,06/17/2024,Miami,
+C-100373,Jermaine Young,jermaine.young42@example.com,(407) 555-8030,customer,FALSE,09/03/2024,Miami,495a6541-1c93-4076-90e3-345d72d9c83c
+C-100768, Robert Kim ,robert.kim23@mail.example.org,(305) 555-0398,customer,TRUE,06/29/2025,Miami,28f88fb0-d9fb-4c32-8470-1738493e863b
+C-100207,SAMUEL WASHINGTON,samuel.washington37@mail.example.org,(401) 555-0622,customer,TRUE,11/21/2024,Boston,
+C-100415,Annette Turner,annette.turner41@mail.example.org,(305) 555-4140,customer,TRUE,04/02/2024,Miami,5bc10fee-ced7-43f1-91e5-597bd89faff6
+C-100477,"Schultz, Chelsea",chelsea.schultz90@example.com,(305) 555-4856,customer,TRUE,05/03/2025,Miami,44df0dc9-35a6-4159-8141-4a8bf47c0e2b
+C-100118,Jacqueline Morris,,,subscriber,TRUE,01/26/2024,Boston,
+C-100247,Erin Baker,ERIN.BAKER81@MAIL.EXAMPLE.ORG,(978) 555-5746,customer,TRUE,02/16/2024,Boston,
+C-100695,ALEX ROSALES,alex.rosales77@example.com,(617) 555-8119,customer,FALSE,06/11/2025,Boston,
+C-100844,Emerson Rossi,emerson.rossi977@example.com,,lead,TRUE,04/12/2025,Dallas,
+C-100029,"Small, Daniel",daniel.small28@inbox.example.net,(617) 555-1785,customer,FALSE,04/07/2024,Boston,
+C-100712,John Richardson,john.richardson57@example.com,(239) 555-6044,customer,TRUE,06/18/2024,Miami,628b0262-278b-4522-aa31-ed61da01b78a
+C-100806,Brittney Baird,brittney.baird34@mail.example.org,(305) 555-0930,customer,FALSE,04/24/2025,Miami,51e5a1ad-d8d2-4387-82fe-860a54c87f4b
+C-100214, Heather Gomez MD ,heather.gomezmd80@example.com,,customer,FALSE,02/01/2024,Boston,
+C-100668,Alicia Holder,alicia.holder8@example.com,(239) 555-5901,customer,TRUE,02/13/2025,Miami,
+C-100580,Mark Brown MD,mark.brownmd89@mail.example.org,(305) 555-3287,customer,TRUE,01/01/2025,Miami,
+C-100592,Deborah Jackson,DEBORAH.JACKSON76@MAIL.EXAMPLE.ORG,(401) 555-1882,customer,FALSE,04/21/2025,Boston,
+C-100694,PAIGE GONZALES,paige.gonzales42@example.com,(305) 555-5684,customer,TRUE,08/30/2024,Miami,0ed041f5-3d65-4f50-b23e-849b527ee107
+C-100310,"Gomez, Paul",paul.gomez97@mail.example.org,(305) 555-1690,customer,FALSE,03/07/2025,Miami,
+C-100631,Sarah Edwards,sarah.edwards52@example.com,(305) 555-9300,customer,TRUE,08/14/2024,Miami,8d5fa184-5966-49ce-b3e7-4acfaba98bfd
+C-100211,Brenda Kent,brenda.kent81@mail.example.org,(617) 555-2790,customer,TRUE,05/05/2024,Boston,3f78077b-93c7-4c4e-8976-f16cb11cfcfc
+C-100062,Jeffrey Bailey,,(617) 555-6256,subscriber,TRUE,06/16/2024,Boston,
+C-100784,Margaret Houston,margaret.houston23@inbox.example.net,(305) 555-6027,customer,FALSE,01/27/2025,Miami,
+C-100361,Laura Taylor,,(813) 555-2641,subscriber,TRUE,02/17/2025,Miami,
+C-100732,Alicia Norris,alicia.norris26@mail.example.org,(305) 555-3772,customer,TRUE,07/30/2024,Miami,f419edd5-8bb5-4809-8cfc-599ab209f6da
+C-100610,"Maxwell, Barry",BARRY.MAXWELL54@MAIL.EXAMPLE.ORG,(305) 555-1453,customer,FALSE,01/07/2025,Miami,
+C-100102,John Anthony,john.anthony39@example.com,(617) 555-7005,customer,TRUE,02/09/2024,Boston,
+C-100840,Riley Silva,riley.silva888@example.com,(720) 555-6357,lead,TRUE,08/16/2025,Denver,
+C-100170, Terry Rice ,terry.rice30@example.com,,customer,FALSE,10/04/2024,Boston,cec4dd97-5c6e-415b-ba06-47dc8ef4570f
+C-100890,Sage Kim,sage.kim24@example.com,(617) 555-9268,lead,TRUE,10/02/2024,Boston,
+C-100277, Pamela Smith ,pamela.smith53@inbox.example.net,(617) 555-4813,customer,TRUE,03/14/2024,Boston,
+C-100682,"Cabrera, Maria",maria.cabrera75@inbox.example.net,(305) 555-4995,customer,FALSE,01/31/2025,Miami,
+C-100877,Rowan Nguyen,rowan.nguyen105@example.com,(720) 555-9776,lead,TRUE,01/01/2025,Austin,
+C-100209,Brittany Reed,brittany.reed73@inbox.example.net,,customer,FALSE,09/04/2024,Boston,f35eb7b6-1b25-433b-90b5-29212b72f6e2
+C-100685,"Ford, Brian",BRIAN.FORD43@INBOX.EXAMPLE.NET,(305) 555-9944,customer,FALSE,02/27/2025,Miami,
+C-100736,Lawrence Mclaughlin,lawrence.mclaughlin44@example.com,(617) 555-3874,customer,TRUE,09/03/2024,Boston,
+C-100567, Kim Porter DDS ,,(813) 555-7140,customer,FALSE,05/16/2025,Miami,5b4df518-7c6e-4957-8906-e33505acee31
+C-100167,David Cooper DDS,david.cooperdds76@inbox.example.net,(617) 555-1286,customer,FALSE,01/06/2024,Boston,
+C-100490,Matthew Zuniga,MATTHEW.ZUNIGA18@INBOX.EXAMPLE.NET,(305) 555-2747,customer,FALSE,03/28/2025,Miami,
+C-100819,Avery Cohen,AVERY.COHEN891@EXAMPLE.COM,,lead,FALSE,09/01/2024,Austin,
+C-100140,Robin Vargas,robin.vargas16@mail.example.org,(617) 555-3297,customer,TRUE,10/08/2024,Boston,
+C-100181,"Lopez, Debbie",debbie.lopez99@example.com,,customer,TRUE,06/16/2024,Boston,
+C-100375,Samantha Holmes,SAMANTHA.HOLMES42@INBOX.EXAMPLE.NET,(305) 555-4409,customer,TRUE,02/06/2025,Miami,
+C-100290,Nicole Hall,nicole.hall42@inbox.example.net,(617) 555-3426,customer,FALSE,10/19/2024,Boston,
+C-100677,"Sawyer, Kathleen",kathleen.sawyer91@example.com,(407) 555-9145,customer,TRUE,10/01/2024,Miami,
+C-100786,Natalie Wilson,natalie.wilson83@mail.example.org,(305) 555-7136,customer,FALSE,12/18/2024,Miami,
+C-100761,Jonathan Bright,jonathan.bright14@mail.example.org,(813) 555-8545,customer,FALSE,02/25/2025,Miami,
+C-100441,"Cox, Nathan",nathan.cox14@inbox.example.net,,customer,FALSE,02/22/2025,Miami,1b25718d-795f-4b30-a424-50167ae8c0ad
+C-100425,Timothy Ferguson,,(813) 555-2446,subscriber,TRUE,08/07/2024,Miami,
+C-100195,Michelle White,michelle.white37@example.com,(617) 555-3143,customer,FALSE,11/02/2024,Boston,b91c4cbb-67d6-4515-b897-dd13e44c1101
+C-100791,Thomas Burnett,thomas.burnett96@mail.example.org,(239) 555-4475,customer,FALSE,01/01/2025,Miami,
+C-100915,Rowan Silva,rowan.silva170@example.com,(617) 555-4495,lead,TRUE,12/01/2024,Denver,
+C-100612,Tracey Larson,tracey.larson14@mail.example.org,(305) 555-2019,customer,FALSE,04/12/2025,Miami,
+C-100474,HENRY STRICKLAND,henry.strickland13@mail.example.org,(239) 555-5778,customer,TRUE,03/10/2024,Miami,2347081e-7ae5-4085-a0d6-d1f551721f69
+C-100555,Michael Ball,michael.ball87@example.com,(617) 555-2971,customer,TRUE,01/28/2025,Boston,
+C-100494,Theresa Williams,theresa.williams62@mail.example.org,(407) 555-5660,customer,TRUE,05/06/2024,Miami,6939d1d2-fba3-4888-8c53-6898bb73c26f
+C-100540,Samuel Stout,samuel.stout65@mail.example.org,(617) 555-0713,customer,FALSE,11/10/2024,Boston,e4adb740-2faa-44fc-bc18-4aa698032414
+C-100110,Katie Ruiz,KATIE.RUIZ18@MAIL.EXAMPLE.ORG,(207) 555-3548,customer,TRUE,04/10/2024,Boston,72874237-a564-45ff-95cf-5fb3ab18e7c8
+C-100530,Jason Garrison,,(813) 555-4379,subscriber,TRUE,04/06/2025,Miami,
+C-100812,Krista Young,krista.young36@inbox.example.net,(407) 555-6714,customer,FALSE,05/20/2025,Miami,
+C-100253,Natasha Wright,natasha.wright78@inbox.example.net,(617) 555-6256,customer,TRUE,09/15/2024,Boston,
+C-100435,Kimberly Jones,kimberly.jones29@example.com,(305) 555-4916,customer,TRUE,07/05/2024,Miami,
+C-100455, Natasha Thompson ,natasha.thompson97@mail.example.org,,customer,FALSE,04/08/2024,Miami,
+C-100101,DEBRA WOLF,debraw905@example.com,(617) 555-2549,customer,FALSE,03/12/2024,Boston,
+C-100055,Andrew Perez,andrewp534@example.com,(401) 555-3979,customer,TRUE,04/11/2024,Boston,
+C-100185,David Webb,david.webb70@example.com,(617) 555-4817,customer,FALSE,06/15/2024,Boston,
+C-100351,Jerry Kelly,jerry.kelly79@mail.example.org,(305) 555-5109,customer,TRUE,03/06/2025,Miami,
+C-100262, Christian Mathis ,christianm357@example.com,(617) 555-2123,customer,TRUE,08/30/2024,Boston,
+C-100382,Jacqueline Lewis,jacqueline.lewis93@mail.example.org,(305) 555-9954,customer,FALSE,12/24/2024,Miami,
+C-100774,Sydney Eaton,sydney.eaton85@inbox.example.net,(305) 555-9196,customer,FALSE,02/10/2025,Miami,
+C-100561,Sara Potter,sara.potter83@mail.example.org,(978) 555-9642,customer,FALSE,08/17/2024,Boston,
+C-100714,Diane Hunter,dianeh679@example.com,(617) 555-4036,customer,FALSE,02/13/2025,Boston,
+C-100816,Sage Nguyen,SAGE.NGUYEN595@EXAMPLE.COM,,lead,TRUE,01/13/2025,Dallas,
+C-100308, Natalie Hatfield ,natalie.hatfield98@inbox.example.net,(407) 555-7495,customer,FALSE,05/20/2024,Miami,
+C-100723,"Simmons, Anthony",anthony.simmons10@mail.example.org,(305) 555-5516,customer,FALSE,11/28/2024,Miami,02c02023-75d2-4ad2-89f6-ed2c2e7ae6f5
+C-100047,Janet Robles,janet.robles32@mail.example.org,(617) 555-0909,customer,FALSE,07/14/2024,Boston,710200a9-2c6c-4f21-b3f1-3ed6aa684fa2
+C-100309,Megan Sharp,megan.sharp71@mail.example.org,(305) 555-9947,customer,FALSE,03/13/2024,Miami,
+C-100486, Dustin Andrade ,dustin.andrade74@mail.example.org,(617) 555-2297,customer,FALSE,02/18/2025,Boston,0c7084bc-19a5-4ad6-bb26-a25f9c09b324
+C-100562,BEVERLY PARKER,BEVERLYP964@EXAMPLE.COM,(617) 555-3868,customer,FALSE,12/18/2024,Boston,b761dca2-f8ff-4709-b645-9b0591dfa353
+C-100658,MICHAEL FLORES,michael.flores79@example.com,(305) 555-6806,customer,FALSE,02/21/2025,Miami,37601558-3b79-4200-800f-fc03a28a5ec7
+C-100554,Carrie Wilson,carrie.wilson18@mail.example.org,(978) 555-3858,customer,FALSE,02/03/2025,Boston,f3abecde-d032-4605-876c-6373a9a9e65b
+C-100147,ANNE JACKSON,,(401) 555-7328,customer,FALSE,12/10/2023,Boston,
+C-100160, Richard Lee ,richardl769@example.com,(978) 555-3060,customer,TRUE,06/05/2024,Boston,
+C-100616,Michael Morris,michael.morris40@example.com,(407) 555-6023,customer,FALSE,05/09/2024,Miami,
+C-100621,"Giles, Tracey",tracey.giles91@inbox.example.net,(305) 555-2216,customer,FALSE,11/23/2024,Miami,
+C-100928,Riley Silva,RILEY.SILVA944@EXAMPLE.COM,,lead,FALSE,03/19/2025,Miami,
+C-100275,"Smith, Cameron",cameron.smith54@inbox.example.net,(978) 555-3527,customer,TRUE,09/15/2024,Boston,
+C-100854,Riley Silva,riley.silva645@example.com,,lead,TRUE,03/26/2025,Denver,
+C-100158,Danny Walker,danny.walker7@mail.example.org,,customer,TRUE,05/05/2024,Boston,2a26f327-c9ef-40f4-bb8c-c809417caad1
+C-100822,Rowan Murphy,rowan.murphy208@example.com,,lead,FALSE,09/05/2024,Denver,
+C-100873,Jordan Murphy,jordan.murphy964@example.com,,lead,TRUE,12/24/2024,Miami,
+C-100010,ANTHONY MURILLO,ANTHONY.MURILLO29@MAIL.EXAMPLE.ORG,(617) 555-6902,customer,FALSE,05/19/2024,Boston,7d0a9ece-1d73-43ea-98e7-8bbe21e890ec
+C-100031,Jasmine Murray,,(617) 555-8138,subscriber,TRUE,08/25/2024,Boston,
+C-100725,Sean Carter,sean.carter46@mail.example.org,(978) 555-2727,customer,TRUE,12/31/2024,Boston,
+C-100121,"Pearson, Barbara",barbara.pearson7@mail.example.org,(207) 555-7735,customer,FALSE,04/29/2024,Boston,bbc4757e-2351-486e-9ca8-f73b9dac716f
+C-100082,Jessica James,jessica.james23@mail.example.org,(978) 555-2770,customer,FALSE,09/23/2024,Boston,
+C-100680,Danielle Griffin,DANIELLE.GRIFFIN96@EXAMPLE.COM,(239) 555-2615,customer,TRUE,05/06/2025,Miami,
+C-100749,Mackenzie Torres,MACKENZIE.TORRES24@MAIL.EXAMPLE.ORG,(407) 555-3655,customer,FALSE,04/17/2025,Miami,
+C-100230,"James, Courtney",courtney.james30@mail.example.org,,customer,TRUE,03/20/2024,Boston,
+C-100552, Sandra Duncan ,,(617) 555-2661,customer,TRUE,11/24/2024,Boston,8020c8de-2e83-4aae-8bd6-638db33f0978
+C-100151,Elizabeth Ryan DVM,elizabeth.ryandvm35@mail.example.org,(401) 555-3337,customer,FALSE,11/28/2023,Boston,
+C-100075,"Thompson, Karina",KARINA.THOMPSON61@MAIL.EXAMPLE.ORG,(617) 555-2182,customer,TRUE,12/06/2023,Boston,5fccc95a-c30f-4525-a4a6-43861baae99a
+C-100794,Kevin Evans,,(305) 555-4518,subscriber,FALSE,12/16/2024,Miami,
+C-100879,Sage Murphy,sage.murphy108@example.com,,lead,TRUE,08/14/2025,Dallas,
+C-100657,Teresa Ortiz,teresa.ortiz81@mail.example.org,(207) 555-0801,customer,FALSE,07/03/2025,Boston,
+C-100597, Stephanie Navarro ,stephanie.navarro74@example.com,(305) 555-8956,customer,FALSE,05/02/2024,Miami,1740f65f-2823-4d8a-9ff9-2bf6dfcddfb6
+C-100091,Angela James,angela.james52@mail.example.org,(617) 555-1557,customer,TRUE,04/26/2024,Boston,
+C-100042, Jessica Valdez ,jessica.valdez82@mail.example.org,(617) 555-0308,customer,TRUE,03/02/2024,Boston,
+C-100243,MARIA CHERRY,mariac168@example.com,(617) 555-2526,customer,FALSE,02/14/2025,Boston,
+C-100227,"Walker, Michael",MICHAEL.WALKER80@INBOX.EXAMPLE.NET,(207) 555-6739,customer,FALSE,01/30/2024,Boston,
+C-100406,Cory Hansen,,(305) 555-9027,subscriber,TRUE,08/17/2024,Miami,
+C-100039, Amanda Johnson ,amanda.johnson2@mail.example.org,(207) 555-6822,customer,FALSE,03/17/2024,Boston,
+C-100030,Jasmine Murray,jasmine.murray69@example.com,(617) 555-8138,customer,TRUE,07/11/2024,Boston,
+C-100301,"Hanna, Stephanie",stephanie.hanna13@example.com,(617) 555-2615,customer,FALSE,09/07/2024,Boston,
+C-100087, Bruce Cole ,bruce.cole40@example.com,(617) 555-7519,customer,FALSE,09/01/2024,Boston,
+C-100451,Leah Miller,leah.miller80@inbox.example.net,(305) 555-6879,customer,FALSE,04/06/2024,Miami,af3dbfea-4df6-42c8-9826-57806904f81c
+C-100633,Caitlin Vasquez,CAITLIN.VASQUEZ41@MAIL.EXAMPLE.ORG,(305) 555-5857,customer,TRUE,07/18/2024,Miami,
+C-100025,CHRISTOPHER KIM,CHRISTOPHER.KIM77@INBOX.EXAMPLE.NET,(617) 555-3984,customer,TRUE,04/15/2024,Boston,d6de888a-0aee-4f77-a7d4-daba8f0da415
+C-100229,Lynn Ramirez,lynn.ramirez98@mail.example.org,(401) 555-0825,customer,TRUE,03/11/2024,Boston,
+C-100802,Samantha Humphrey,samantha.humphrey13@inbox.example.net,(407) 555-3574,customer,FALSE,10/11/2024,Miami,
+C-100850,Avery Okafor,avery.okafor457@example.com,,lead,FALSE,01/10/2025,,
+C-100859,Morgan Patel,MORGAN.PATEL753@EXAMPLE.COM,(617) 555-5138,lead,FALSE,10/22/2024,Dallas,
+C-100372,John Barton,john.barton61@example.com,(407) 555-6228,customer,FALSE,09/11/2024,Miami,
+C-100926,Emerson Kim,emerson.kim335@example.com,(720) 555-9782,lead,TRUE,02/25/2025,,
+C-100295,Lori Williams,LORIW871@EXAMPLE.COM,(978) 555-8779,customer,FALSE,03/31/2025,Boston,96e4788e-210c-4cc9-97f7-b6b855134e0b
+C-100353,"Rodriguez, Brendan",brendan.rodriguez13@mail.example.org,(305) 555-3427,customer,FALSE,01/29/2025,Miami,8e5c2f29-44ce-4f60-b818-8b728f60b79b
+C-100146,Andrew Serrano,andrew.serrano52@mail.example.org,(617) 555-5359,customer,TRUE,12/21/2023,Boston,
+C-100263,Christian Mathis,,(617) 555-2123,subscriber,FALSE,12/30/2024,Boston,
+C-100123,Larry Gilmore,,(978) 555-2487,customer,TRUE,06/11/2024,Boston,49a962c3-f4f1-4c85-accc-a1e3a243a202
+C-100386,Kristin Payne,kristin.payne75@mail.example.org,(813) 555-6998,customer,FALSE,07/13/2024,Miami,
+C-100876,Avery Kim,avery.kim765@example.com,,lead,FALSE,06/26/2025,,
+C-100183,Melissa Roberts,MELISSA.ROBERTS91@MAIL.EXAMPLE.ORG,(978) 555-3108,customer,FALSE,02/13/2024,Boston,f4c4994a-5a77-4a2f-902b-4f69c22ccee3
+C-100155,Sara Valentine,sara.valentine9@example.com,(617) 555-0689,customer,FALSE,09/16/2024,Boston,
+C-100901,Avery Schmidt,avery.schmidt539@example.com,(720) 555-7285,lead,TRUE,10/30/2024,Denver,
+C-100096,William Diaz,WILLIAM.DIAZ3@EXAMPLE.COM,(617) 555-6902,customer,TRUE,01/17/2024,Boston,
+C-100469,Victoria Parker,victoriap630@example.com,(305) 555-6651,customer,FALSE,01/12/2025,Miami,5b6d3273-0554-4f9d-bc05-2157626c1ad0
+C-100746, Ryan Jones ,RYAN.JONES86@EXAMPLE.COM,(305) 555-2384,customer,FALSE,06/07/2025,Miami,fad2c57b-c35e-4270-8d10-2f067a5ee2b7
+C-100523,Pamela Harris,pamela.harris60@mail.example.org,(617) 555-8006,customer,FALSE,06/24/2024,Boston,
+C-100718,Judith Swanson,JUDITH.SWANSON28@INBOX.EXAMPLE.NET,(305) 555-2952,customer,TRUE,06/10/2025,Miami,
+C-100249,Matthew Stewart,MATTHEW.STEWART34@EXAMPLE.COM,(617) 555-8967,customer,FALSE,01/21/2025,Boston,8cef9627-37e9-4bad-a5d7-69f87f291c90
+C-100245,George Farrell,,(617) 555-7533,customer,TRUE,10/14/2024,Boston,8aff4c2d-48b5-4b85-bf21-20ad95d18b6c
+C-100845,Morgan Patel,morgan.patel67@example.com,,lead,TRUE,07/22/2025,Miami,
+C-100692,Paul Black,paul.black90@inbox.example.net,(239) 555-3830,customer,FALSE,10/14/2024,Miami,661d2fc6-9fa2-4c79-9d19-44c73cb68448
+C-100177,Robert Lang,ROBERT.LANG85@INBOX.EXAMPLE.NET,(207) 555-8783,customer,TRUE,09/28/2024,Boston,
+C-100008, Russell Mitchell ,russellm396@example.com,(617) 555-6230,customer,TRUE,10/10/2023,Boston,
+C-100103, Tina Collins ,tina.collins31@mail.example.org,(617) 555-1279,customer,TRUE,03/09/2024,Boston,189edb91-3f25-4f32-bfb4-64bd4052cb1c
+C-100729,"Gordon, Sandra",sandra.gordon7@mail.example.org,(407) 555-2780,customer,FALSE,12/19/2024,Miami,
+C-100343,Heather Mason,heather.mason68@example.com,(305) 555-6104,customer,FALSE,03/28/2024,Miami,b81636bb-71f3-4ace-8eb7-628abe1eac07
+C-100058,Alexander Burke,ALEXANDER.BURKE98@EXAMPLE.COM,(617) 555-1211,customer,FALSE,07/15/2024,Boston,66983396-cb40-4613-8d6d-306b8f9ca5c4
+C-100594,Brittany Morales,BRITTANY.MORALES12@EXAMPLE.COM,(305) 555-8347,customer,FALSE,08/07/2024,Miami,c664111b-b80e-45ab-b2de-ee220ea29fbe
+C-100358,Robert Allen,robert.allen38@example.com,(305) 555-4442,customer,TRUE,10/17/2024,Miami,
+C-100563,"Navarro, Timothy",timothy.navarro99@mail.example.org,(617) 555-0841,customer,TRUE,09/30/2024,Boston,
+C-100640,Jessica Cole,jessica.cole15@mail.example.org,(305) 555-2083,customer,TRUE,05/19/2024,Miami,72ad36e6-90e5-4d1f-8978-44a18ed7d4e0
+C-100321,John Phillips,john.phillips37@mail.example.org,(305) 555-5083,customer,FALSE,03/29/2024,Miami,f9c2b37f-2e88-4008-a277-99f35c4760bf
+C-100487,Christopher Cain,christopher.cain64@mail.example.org,(305) 555-6590,customer,TRUE,08/14/2024,Miami,
+C-100238,"Lawson, Paige",PAIGE.LAWSON29@EXAMPLE.COM,(617) 555-0332,customer,FALSE,09/14/2024,Boston,
+C-100514,Seth Atkinson,seth.atkinson10@mail.example.org,(305) 555-3852,customer,FALSE,06/18/2024,Miami,ed46daf6-4c46-4af8-a80d-c0cf0b307966
+C-100773, Teresa Williams ,teresa.williams10@mail.example.org,(239) 555-7727,customer,TRUE,10/24/2024,Miami,
+C-100363,Amanda Bates,AMANDA.BATES77@INBOX.EXAMPLE.NET,(813) 555-3553,customer,TRUE,02/16/2025,Miami,270b35bf-74ca-4601-91d8-16fe5196ca5a
+C-100745,"Smith, Christopher",christophers279@example.com,(407) 555-7987,customer,FALSE,04/17/2025,Miami,76d2b7be-1fa1-441b-9de1-97c64d06c646
+C-100861,Riley Rossi,riley.rossi119@example.com,,lead,TRUE,09/11/2024,Dallas,
+C-100291,Amy Taylor,AMY.TAYLOR96@EXAMPLE.COM,(617) 555-3227,customer,FALSE,05/21/2024,Boston,8a77ab59-ae1e-4b71-ab66-66bda4615cfd
+C-100654,"Mcgee, John",JOHN.MCGEE70@INBOX.EXAMPLE.NET,(978) 555-8941,customer,TRUE,09/04/2024,Boston,6ffc9798-2bb6-43ca-823b-e9dda0935299
+C-100088,Carrie Russell MD,carrier371@example.com,(617) 555-2287,customer,FALSE,08/21/2024,Boston,
+C-100112,Renee Gibson,renee.gibson65@inbox.example.net,(207) 555-0865,customer,TRUE,04/18/2024,Boston,
+C-100070,"Henderson, Tyler",,(207) 555-2101,customer,FALSE,07/01/2024,Boston,2a2c365a-ac9d-4106-a494-678e09ae412c
+C-100178,Deborah Page,deborahp796@example.com,(207) 555-6488,customer,TRUE,11/26/2023,Boston,
+C-100332, Melissa Wilkinson ,MELISSA.WILKINSON58@MAIL.EXAMPLE.ORG,(305) 555-3429,customer,TRUE,08/23/2024,Miami,b30877a4-5c8f-4cdb-94ea-3569b516061a
+C-100630,Teresa Moreno,TERESAM808@EXAMPLE.COM,,customer,FALSE,10/31/2024,Miami,
+C-100665,Jennifer Atkinson,jennifer.atkinson19@example.com,(305) 555-8445,customer,FALSE,11/08/2024,Miami,b4624db2-8aba-4c57-a0f7-0f5cb8bf0a04
+C-100439,GREGORY GLENN,gregory.glenn72@example.com,(407) 555-9782,customer,FALSE,03/05/2025,Miami,
+C-100242,Kaitlin Hall,kaitlin.hall70@mail.example.org,(401) 555-9391,customer,TRUE,10/03/2024,Boston,7bd64d99-cfe2-4e61-aed9-8b6f3d410468
+C-100587,Cheryl Patel,cheryl.patel32@example.com,(305) 555-8196,customer,FALSE,04/15/2025,Miami,1b221ed8-52ce-4d81-a181-c5317da12a7c
+C-100240, Nicholas Mcdowell ,,(978) 555-9171,customer,FALSE,11/10/2024,Boston,
+C-100925,Sage Silva,sage.silva491@example.com,,lead,TRUE,12/15/2024,Dallas,
+C-100051,Brittany Brown,brittany.brown45@example.com,(617) 555-0218,customer,TRUE,06/26/2024,Boston,
+C-100001,"Love, Stephanie",STEPHANIE.LOVE11@EXAMPLE.COM,(207) 555-3793,customer,FALSE,12/09/2023,Boston,
+C-100396,"Rodriguez, Michael",michael.rodriguez80@example.com,(407) 555-8544,customer,TRUE,11/25/2024,Miami,529867fe-75f6-4cd9-b913-543b3d6e583c
+C-100609,"Donaldson, David",DAVID.DONALDSON80@MAIL.EXAMPLE.ORG,(239) 555-3975,customer,TRUE,03/07/2025,Miami,
+C-100881,Rowan Kim,rowan.kim618@example.com,,lead,FALSE,03/27/2025,,
+C-100843,Quinn Kim,quinn.kim890@example.com,,lead,TRUE,04/28/2025,Denver,
+C-100366,Brian Estrada,brian.estrada64@mail.example.org,(407) 555-8569,customer,TRUE,05/25/2024,Miami,
+C-100107,"Phillips, Keith",keith.phillips86@example.com,(401) 555-8259,customer,TRUE,07/01/2024,Boston,f044be50-29c1-40c4-a16c-a1dd1f95d6f3
+C-100224,Tammy Watson,tammy.watson14@mail.example.org,(401) 555-0567,customer,TRUE,05/16/2024,Boston,
+C-100450,"Logan, Tiffany",tiffany.logan46@inbox.example.net,(305) 555-3884,customer,TRUE,08/15/2024,Miami,73d9c423-e9d4-428f-bfaa-b073b2c1f454
+C-100765,Kevin Farmer,kevin.farmer15@example.com,(305) 555-1013,customer,TRUE,09/16/2024,Miami,
+C-100237,AMBER LOPEZ,amber.lopez37@example.com,(617) 555-8501,customer,FALSE,10/03/2024,Boston,
+C-100564,Carl Dorsey,carl.dorsey68@inbox.example.net,(305) 555-5877,customer,TRUE,08/16/2024,Miami,
+C-100545,Ashley Porter,ashley.porter14@inbox.example.net,(207) 555-4629,customer,FALSE,11/18/2024,Boston,
+C-100852,Hayden Rossi,hayden.rossi533@example.com,,lead,TRUE,07/10/2025,Seattle,
+C-100219,"Villa, Christopher",christopher.villa62@inbox.example.net,(617) 555-0232,customer,TRUE,03/22/2024,Boston,
+C-100156,"Brewer, John",john.brewer25@mail.example.org,(617) 555-2227,customer,TRUE,10/14/2024,Boston,
+C-100252,Erik Mason,erik.mason76@mail.example.org,(617) 555-5172,customer,FALSE,07/29/2024,Boston,
+C-100539,Sharon Smith,SHARON.SMITH74@INBOX.EXAMPLE.NET,(617) 555-1454,customer,TRUE,05/27/2024,Boston,
+C-100337,"Baker, Shannon",shannon.baker28@example.com,,customer,TRUE,03/16/2025,Miami,7755a749-3460-4f0c-a33c-428dccd20885
+C-100711,Ryan Nash,ryan.nash49@mail.example.org,(305) 555-8250,customer,TRUE,10/09/2024,Miami,
+C-100647,Danielle Anthony,danielle.anthony84@mail.example.org,(305) 555-8082,customer,FALSE,07/06/2024,Miami,6cb96ee5-043d-47e6-a79a-67e7b0fa034e
+C-100280,ERIN FLORES PHD,erin.floresphd9@example.com,(978) 555-4488,customer,FALSE,07/28/2024,Boston,
+C-100173,Devin Clayton,,(617) 555-3401,subscriber,FALSE,11/10/2024,Boston,
+C-100531,James Robertson,james.robertson44@inbox.example.net,(305) 555-6170,customer,FALSE,08/08/2024,Miami,
+C-100525, Alexandra Cain ,alexandra.cain49@inbox.example.net,,customer,TRUE,06/01/2024,Miami,
+C-100383,Michelle Velez,michelle.velez70@inbox.example.net,(407) 555-3290,customer,FALSE,09/16/2024,Miami,
+C-100904,Sage Cohen,sage.cohen850@example.com,,lead,FALSE,08/26/2025,Denver,
+C-100776,Richard Burns,richard.burns88@mail.example.org,(305) 555-9800,customer,TRUE,03/27/2025,Miami,
+C-100271,Traci Landry,traci.landry95@mail.example.org,(617) 555-5552,customer,TRUE,10/01/2024,Boston,257291a7-c562-45b7-9229-49a527229518
+C-100899,Emerson Patel,EMERSON.PATEL442@EXAMPLE.COM,(720) 555-8698,lead,TRUE,02/24/2025,Miami,
+C-100813,Avery Garcia,AVERY.GARCIA841@EXAMPLE.COM,(617) 555-3754,lead,FALSE,12/15/2024,Dallas,
+C-100534, Matthew Carrillo ,matthew.carrillo25@example.com,(239) 555-9344,customer,TRUE,11/16/2024,Miami,05f69a50-2703-4591-a792-14e2e5994b43
+C-100108,Kyle Martin,kyle.martin42@inbox.example.net,(617) 555-0892,customer,TRUE,11/23/2023,Boston,
+C-100674,Kenneth Wilcox,kenneth.wilcox24@inbox.example.net,(617) 555-4522,customer,TRUE,08/12/2024,Boston,
+C-100078,William James,william.james61@inbox.example.net,(978) 555-0840,customer,TRUE,09/21/2023,Boston,
+C-100842,Morgan Murphy,MORGAN.MURPHY93@EXAMPLE.COM,(720) 555-4560,lead,TRUE,09/01/2024,Boston,
+C-100652,Dylan Dickerson,dylan.dickerson48@inbox.example.net,(239) 555-7350,customer,TRUE,11/15/2024,Miami,07571aa5-5581-4cf0-9a68-006051f37c8c
+C-100839,Jordan Rossi,jordan.rossi459@example.com,(617) 555-7283,lead,TRUE,03/19/2025,Seattle,
+C-100423,Francisco Meyer,,(813) 555-3657,subscriber,FALSE,01/08/2025,Miami,
+C-100037,Scott Thompson,scott.thompson71@example.com,(401) 555-6037,customer,FALSE,01/27/2024,Boston,9bac4be0-d703-4f1d-a088-1bdb362d3246
+C-100286,GEORGE BENNETT,george.bennett61@mail.example.org,(617) 555-4864,customer,FALSE,12/21/2024,Boston,7532eee7-0f38-4249-9459-e40b83d75db2
+C-100885,Casey Cohen,casey.cohen475@example.com,,lead,FALSE,04/20/2025,Austin,
+C-100244,Alyssa Riddle,alyssa.riddle83@example.com,(401) 555-8471,customer,TRUE,12/02/2024,Boston,
+C-100504,Lisa Mason,lisa.mason31@mail.example.org,(305) 555-5121,customer,FALSE,08/12/2024,Miami,3d0fd916-f8d9-4f59-9d2f-75d16ed75c58
+C-100751,Benjamin Thomas,benjamin.thomas42@example.com,(207) 555-1505,customer,FALSE,02/04/2025,Boston,a9976a20-42e5-4c26-a2d0-6ab72973887f
+C-100272,MATTHEW DAWSON,matthew.dawson42@example.com,(617) 555-5794,customer,TRUE,10/12/2024,Boston,
+C-100292,CAROL LEE,carol.lee2@inbox.example.net,(207) 555-7581,customer,TRUE,02/18/2025,Boston,
+C-100803,Michael Flores,,(305) 555-7904,customer,TRUE,08/22/2025,Miami,
+C-100779,"Grant, David",david.grant46@example.com,(617) 555-9769,customer,TRUE,03/08/2025,Boston,
+C-100166,Richard Holloway,richard.holloway46@mail.example.org,(401) 555-8310,customer,FALSE,01/10/2024,Boston,
+C-100479,SHARI MILLS,shari.mills90@example.com,(813) 555-2020,customer,TRUE,04/01/2024,Miami,b7428f06-b3dd-477e-8569-96068f3d3dcb
+C-100288,Theodore Anderson,theodore.anderson88@inbox.example.net,(978) 555-9215,customer,FALSE,04/12/2024,Boston,
+C-100639,Jason Jones DDS,jason.jonesdds4@mail.example.org,(305) 555-7977,customer,FALSE,03/29/2025,Miami,ed5f2f3e-8bef-4da7-b30c-90c3fa5f40ea
+C-100599,"Bell, Bryan",bryan.bell26@example.com,(305) 555-0302,customer,FALSE,06/04/2025,Miami,9a689679-4c75-46ba-92d3-6b5b0c51a34a
+C-100708,Matthew Henderson,matthew.henderson99@inbox.example.net,(305) 555-0562,customer,TRUE,11/17/2024,Miami,
+C-100268,Carlos Bass Jr.,carlosb370@example.com,(617) 555-5564,customer,TRUE,05/23/2024,Boston,
+C-100143,Adam Rowe,adam.rowe55@example.com,(617) 555-8719,customer,FALSE,02/05/2024,Boston,191feb1d-2def-4cbf-a8f8-ee3eb3856ea2
+C-100216,Nicole Martin,nicole.martin9@inbox.example.net,(401) 555-2209,customer,FALSE,04/22/2024,Boston,
+C-100388,BENJAMIN WILLIAMS,BENJAMIN.WILLIAMS57@EXAMPLE.COM,(305) 555-2879,customer,TRUE,10/21/2024,Miami,e69b7e32-9292-400a-b228-b3ecc6727760
+C-100044,Martha Pineda DDS,martha.pinedadds66@example.com,(617) 555-4094,customer,FALSE,06/18/2024,Boston,
+C-100217,"Grant, Matthew",matthew.grant76@inbox.example.net,(617) 555-2200,customer,FALSE,08/27/2024,Boston,
+C-100197,Jay Haley,JAYH647@EXAMPLE.COM,(617) 555-3647,customer,TRUE,01/30/2024,Boston,
+C-100225,George Moore,georgem435@example.com,(978) 555-2721,customer,TRUE,08/21/2024,Boston,
+C-100429,Richard Jones,richard.jones28@inbox.example.net,(305) 555-6187,customer,TRUE,12/23/2024,Miami,
+C-100730,"Henderson, Heather",heather.henderson83@mail.example.org,(305) 555-5612,customer,TRUE,09/15/2024,Miami,
+C-100006, Beverly Peters ,beverly.peters3@example.com,(207) 555-9265,customer,TRUE,05/04/2024,Boston,
+C-100557,"Bridges, Jimmy",,(617) 555-6022,customer,TRUE,07/09/2024,Boston,dccd3e5d-2076-4fc6-aa79-87579e134ce1
+C-100266,Kimberly Jackson,kimberly.jackson71@example.com,,customer,TRUE,11/09/2024,Boston,
+C-100416,Annette Turner,,(305) 555-4140,subscriber,TRUE,08/25/2024,Miami,
+C-100472,"Adams, Alejandro",alejandro.adams88@inbox.example.net,,customer,TRUE,04/02/2024,Miami,
+C-100738,Danielle Gonzalez,danielle.gonzalez67@mail.example.org,(305) 555-7582,customer,FALSE,02/12/2025,Miami,
+C-100508,Brandon Lopez,brandon.lopez96@mail.example.org,(407) 555-8033,customer,FALSE,11/15/2024,Miami,
+C-100650,MR. ALFRED REYNOLDS,,(407) 555-9373,customer,TRUE,09/11/2024,Miami,
+C-100056,JERRY THOMPSON II,jerry.thompsonii43@mail.example.org,(401) 555-6790,customer,FALSE,09/08/2023,Boston,d82c6a2f-7e02-40de-81c3-c42ef14d8460
+C-100076,"Knight, Patrick",patrick.knight58@mail.example.org,(617) 555-6777,customer,TRUE,09/20/2023,Boston,b27a07f1-ddf4-4134-9f7d-1b1ac869b110
+C-100556, Brian Church ,brian.church38@mail.example.org,(207) 555-5848,customer,FALSE,02/12/2025,Boston,b998f134-9c6e-4e5b-9a37-d0d9dbc72f85
+C-100889,Quinn Silva,quinn.silva139@example.com,,lead,FALSE,08/17/2025,Miami,
+C-100589,Jonathan Lewis,jonathan.lewis10@inbox.example.net,(305) 555-7556,customer,TRUE,11/28/2024,Miami,
+C-100619,Kevin Mcguire,kevin.mcguire26@mail.example.org,(407) 555-8478,customer,FALSE,08/18/2024,Miami,
+C-100516,John Fischer,john.fischer20@mail.example.org,,customer,FALSE,12/16/2024,Boston,
+C-100312,Manuel Mooney,manuel.mooney19@inbox.example.net,(813) 555-4800,customer,FALSE,08/08/2024,Miami,8fd99d74-d73b-4014-a8fa-a37b39befe36
+C-100355,Kristen Jacobs,kristen.jacobs58@example.com,(305) 555-8411,customer,TRUE,12/19/2024,Miami,
+C-100493,BRANDON ESPINOZA,brandon.espinoza82@inbox.example.net,(305) 555-7085,customer,TRUE,03/10/2025,Miami,
+C-100838,Rowan Murphy,rowan.murphy943@example.com,(617) 555-4021,lead,FALSE,08/19/2025,Miami,
+C-100023,Ray Mitchell,ray.mitchell60@example.com,,customer,FALSE,02/07/2024,Boston,a311b0c8-1b63-4405-8097-09a984512389
+C-100857,Jordan Rossi,JORDAN.ROSSI861@EXAMPLE.COM,,lead,FALSE,09/01/2024,Seattle,
+C-100495, Kathleen Hudson ,KATHLEEN.HUDSON9@MAIL.EXAMPLE.ORG,(305) 555-3502,customer,TRUE,02/12/2025,Miami,
+C-100825,Emerson Kim,emerson.kim924@example.com,(720) 555-7733,lead,TRUE,09/25/2024,Seattle,
+C-100018,"Lopez, Dylan",dylan.lopez8@mail.example.org,(617) 555-1778,customer,FALSE,01/15/2024,Boston,84ee8f13-e5a2-4988-8f65-daa65801c5d1
+C-100339,Alec Ayala,alec.ayala4@example.com,(305) 555-9680,customer,FALSE,03/28/2024,Miami,
+C-100739,Victoria Wood,victoria.wood23@example.com,(813) 555-4639,customer,FALSE,06/26/2024,Miami,5e3636fd-a0a7-44c0-96e8-3d906cdbb119
+C-100285,ANN MORRIS,ann.morris63@mail.example.org,(617) 555-5469,customer,TRUE,02/05/2025,Boston,b6552330-9932-4624-8855-b5b7aa13d3f4
+C-100395,Zachary Turner,zachary.turner90@mail.example.org,(239) 555-1917,customer,TRUE,03/29/2024,Miami,139f4019-998c-4c6f-8c4f-a97a756af68c
+C-100340,Matthew Harper,,(407) 555-6198,customer,FALSE,03/31/2025,Miami,5f2b73d5-f495-401c-82ee-47cf4886bfa2
+C-100066,Alicia Huerta,ALICIA.HUERTA54@MAIL.EXAMPLE.ORG,(617) 555-0717,customer,TRUE,03/10/2024,Boston,84f816bd-12e2-4633-a419-fc80705977e6
+C-100684,Misty Townsend,misty.townsend8@example.com,(305) 555-2571,customer,TRUE,08/08/2024,Miami,
+C-100649,Eric Porter,eric.porter6@inbox.example.net,(978) 555-3954,customer,TRUE,06/25/2024,Boston,
+C-100175,MR. ADAM CAREY,MR.ADAMCAREY14@MAIL.EXAMPLE.ORG,(617) 555-8669,customer,FALSE,09/28/2024,Boston,5daa5d95-314b-4f5e-8926-8d61c9d4daa1
+C-100164,Mr. Jeremy Cameron,,(617) 555-9628,subscriber,TRUE,07/06/2024,Boston,
+C-100601, Matthew Roberts ,matthew.roberts45@mail.example.org,(813) 555-1530,customer,TRUE,05/12/2025,Miami,
+C-100607,John Washington,john.washington50@mail.example.org,(401) 555-9490,customer,FALSE,10/28/2024,Boston,
+C-100148,Chad Walsh,CHAD.WALSH32@INBOX.EXAMPLE.NET,(617) 555-6124,customer,TRUE,09/03/2024,Boston,
+C-100814,Morgan Nguyen,morgan.nguyen855@example.com,,lead,FALSE,05/04/2025,Austin,
+C-100344,Samantha Coleman,samantha.coleman36@mail.example.org,(305) 555-1016,customer,FALSE,07/18/2024,Miami,
+C-100702,Angela Clark,angelac948@example.com,(305) 555-6449,customer,TRUE,11/11/2024,Miami,b51ad0d8-7b4d-4859-8de9-fd9feb62c888
+C-100661,Katherine Griffin,katherine.griffin21@example.com,(978) 555-5065,customer,TRUE,11/13/2024,Boston,
+C-100453,Jennifer Manning,JENNIFER.MANNING64@INBOX.EXAMPLE.NET,(305) 555-3714,customer,FALSE,03/27/2024,Miami,
+C-100559,"Mcdonald, Brandy",brandy.mcdonald45@example.com,(207) 555-6298,customer,TRUE,07/12/2024,Boston,
+C-100553,Sandra Duncan,,(617) 555-2661,subscriber,FALSE,02/17/2025,Boston,
+C-100095,Melody Wright,melody.wright30@mail.example.org,(978) 555-3854,customer,TRUE,07/08/2024,Boston,c9276a13-5b0f-4ce9-8802-3e0ead192508
+C-100912,Morgan Murphy,morgan.murphy450@example.com,,lead,FALSE,01/14/2025,Miami,
+C-100299,Mr. Clayton Kramer,mr.claytonkramer81@example.com,(978) 555-8644,customer,FALSE,05/03/2024,Boston,
+C-100134,TANNER MULLEN,tanner.mullen66@example.com,(617) 555-2867,customer,FALSE,12/27/2023,Boston,71c65b56-3757-459a-ac5b-b50c76fb6a5e
+C-100757,KYLE CARROLL,kyle.carroll76@inbox.example.net,(813) 555-3697,customer,FALSE,12/28/2024,Miami,
+C-100659,Jill Mcknight,jill.mcknight45@mail.example.org,(407) 555-3055,customer,TRUE,05/29/2025,Miami,
+C-100796, Brett Santiago ,brett.santiago91@example.com,(305) 555-4722,customer,FALSE,08/05/2025,Miami,
+C-100673,Jason Parker,jason.parker66@mail.example.org,(407) 555-7056,customer,FALSE,02/17/2025,Miami,4675a031-3216-463d-8c4d-42ea1283bd56
+C-100891,Quinn Rossi,quinn.rossi182@example.com,,lead,TRUE,09/16/2024,Dallas,
+C-100248,ERIN LUCAS,erin.lucas61@mail.example.org,(207) 555-3706,customer,FALSE,05/19/2024,Boston,358fc32a-8446-4c62-b4a1-92b145a689e8
+C-100297,Joshua Turner,joshua.turner54@example.com,(617) 555-4467,customer,TRUE,01/12/2025,Boston,
+C-100307,Todd Cook,toddc709@example.com,(813) 555-9009,customer,FALSE,11/02/2024,Miami,
+C-100521,David Edwards,david.edwards86@example.com,(813) 555-6619,customer,TRUE,04/26/2024,Miami,
+C-100688,"Nelson, Stephanie",stephanie.nelson7@example.com,(617) 555-1817,customer,TRUE,05/18/2025,Boston,
+C-100683,Tyler Evans,tyler.evans46@inbox.example.net,(305) 555-9180,customer,TRUE,06/24/2024,Miami,848bb1e9-3367-4758-8f73-e886fadfadab
+C-100754,Rachel Sutton,RACHEL.SUTTON35@MAIL.EXAMPLE.ORG,(239) 555-0760,customer,FALSE,12/21/2024,Miami,
+C-100313,Douglas Coffey,douglas.coffey48@mail.example.org,(305) 555-4127,customer,FALSE,07/10/2024,Miami,fa2a460e-af12-4197-b38d-d2822d96e879
+C-100449,Donna Crawford,donna.crawford31@example.com,(305) 555-6917,customer,FALSE,01/22/2025,Miami,
+C-100641,Hannah Anderson MD,HANNAH.ANDERSONMD28@INBOX.EXAMPLE.NET,(305) 555-4881,customer,TRUE,10/23/2024,Miami,b8edba64-3db4-4841-8f8d-dc00dce6fb67
+C-100883,Casey Patel,casey.patel701@example.com,(720) 555-6837,lead,TRUE,03/23/2025,Austin,
+C-100573,Steven Hansen,steven.hansen31@mail.example.org,(813) 555-8866,customer,FALSE,05/29/2024,Miami,d78e6e3f-3ff1-49b6-9dcb-129816aa0ecb
+C-100896,Quinn Rossi,QUINN.ROSSI981@EXAMPLE.COM,,lead,FALSE,07/12/2025,Miami,
+C-100467,Casey Miller,casey.miller43@example.com,(305) 555-6113,customer,FALSE,05/22/2024,Miami,cf5dd5d1-b2dc-47d4-9be1-b6c0e5b07a12
+C-100676,Margaret Lopez,margaretl437@example.com,(813) 555-8801,customer,TRUE,05/28/2025,Miami,376d586e-00b0-4a49-9695-ddac46fb337e
+C-100670,Ashley Anderson,,,customer,TRUE,12/16/2024,Miami,62e44a82-c99b-4d04-9abb-f6a2eb97c7ec
+C-100235,Dawn Williams,dawn.williams75@inbox.example.net,(978) 555-2236,customer,FALSE,11/06/2024,Boston,bab8979a-8cd9-477b-bbd7-2e1dbab88437
+C-100868,Morgan Rossi,morgan.rossi956@example.com,(617) 555-6584,lead,FALSE,06/03/2025,Austin,
+C-100407,"Cole, Elizabeth",ELIZABETH.COLE83@MAIL.EXAMPLE.ORG,(305) 555-9443,customer,TRUE,02/20/2024,Miami,
+C-100709,Matthew Henderson,,(305) 555-0562,subscriber,FALSE,02/11/2025,Miami,
+C-100693,Peggy Martinez,peggy.martinez36@mail.example.org,(305) 555-3131,customer,TRUE,05/06/2025,Miami,
+C-100548,Michelle Herring,michelle.herring16@inbox.example.net,(617) 555-8322,customer,TRUE,05/17/2024,Boston,3b5801eb-5e85-44e1-abb0-6e1879e5e0ac
+C-100064,"Lowe, John",JOHN.LOWE9@MAIL.EXAMPLE.ORG,(617) 555-5444,customer,FALSE,04/14/2024,Boston,
+C-100895,Avery Patel,avery.patel172@example.com,(720) 555-4119,lead,FALSE,01/05/2025,,
+C-100130,Mark Mitchell,mark.mitchell99@example.com,(617) 555-8308,customer,TRUE,02/05/2024,Boston,
+C-100322,KEVIN ARROYO,KEVIN.ARROYO64@MAIL.EXAMPLE.ORG,(239) 555-3682,customer,FALSE,03/11/2024,Miami,
+C-100475,VANESSA JONES,VANESSA.JONES72@MAIL.EXAMPLE.ORG,(305) 555-2218,customer,FALSE,09/11/2024,Miami,
+C-100282, Heidi Randall ,HEIDI.RANDALL18@EXAMPLE.COM,(207) 555-9012,customer,FALSE,03/09/2024,Boston,
+C-100060,Brittany Barrera,brittanyb427@example.com,(617) 555-6496,customer,TRUE,04/26/2024,Boston,
+C-100393,Ellen Henderson,ellen.henderson99@mail.example.org,(239) 555-9630,customer,TRUE,02/11/2025,Miami,
+C-100150,Shannon Alexander,shannon.alexander35@inbox.example.net,,customer,TRUE,04/02/2024,Boston,ffd40778-a37e-453c-81d1-9a769cac4692
+C-100797,MARY NICHOLSON,,(305) 555-6446,customer,FALSE,10/29/2024,Miami,120d57b9-de14-4717-aefe-ab126645435d
+C-100212,JAY CRUZ,jayc836@example.com,(401) 555-5270,customer,FALSE,03/06/2024,Boston,
+C-100204,VIRGINIA JAMES,,(401) 555-9634,customer,FALSE,11/21/2023,Boston,
+C-100438,"Wallace, Ryan",RYAN.WALLACE94@EXAMPLE.COM,(305) 555-6584,customer,TRUE,03/18/2024,Miami,
+C-100544,Michelle Wiggins,michelle.wiggins59@example.com,(617) 555-8823,customer,FALSE,04/13/2025,Boston,
+C-100159,"Harris, Sarah",sarah.harris52@mail.example.org,(617) 555-8592,customer,TRUE,06/05/2024,Boston,f1c35457-d11b-4726-ae58-b98a09167675
+C-100485,Kyle Hart,kyle.hart95@mail.example.org,(407) 555-8169,customer,FALSE,01/29/2025,Miami,
+C-100547,"Graham, Rachel",rachelg358@example.com,(617) 555-0951,customer,TRUE,09/21/2024,Boston,d0299f60-146d-4716-bc55-eb830a04779e
+C-100304,REBECCA TORRES,rebecca.torres87@mail.example.org,,customer,FALSE,11/21/2024,Boston,
+C-100690,Rhonda Watkins,RHONDA.WATKINS43@EXAMPLE.COM,,customer,FALSE,09/29/2024,Miami,
+C-100740,Gregory Wyatt,GREGORY.WYATT1@INBOX.EXAMPLE.NET,(407) 555-8888,customer,TRUE,08/14/2024,Miami,b5261e71-886e-4d78-8d1d-310ed9754704
+C-100236,Zachary Holland MD,zacharyh370@example.com,(978) 555-6219,customer,FALSE,01/24/2025,Boston,
+C-100853,Emerson Silva,emerson.silva404@example.com,(305) 555-6429,lead,TRUE,01/09/2025,Miami,
+C-100655,KAREN PUGH,karenp466@example.com,(305) 555-0500,customer,FALSE,05/16/2025,Miami,
+C-100206, Emily Anderson ,EMILY.ANDERSON61@INBOX.EXAMPLE.NET,(617) 555-3634,customer,TRUE,10/19/2024,Boston,
+C-100884,Morgan Kim,morgan.kim463@example.com,,lead,FALSE,06/10/2025,Miami,
+C-100624,Kathleen Flores,kathleen.flores17@example.com,(813) 555-7811,customer,FALSE,05/19/2024,Miami,cd67e795-f5fa-470f-9a4f-4060d5951279
+C-100770,David Gomez,david.gomez49@example.com,(305) 555-8223,customer,FALSE,07/04/2025,Miami,
+C-100448,"Cook, Jose",jose.cook80@example.com,(305) 555-1250,customer,TRUE,08/02/2024,Miami,
+C-100780,"Choi, Gabriella",gabriella.choi60@example.com,(305) 555-3585,customer,TRUE,12/05/2024,Miami,
+C-100846,Emerson Silva,emerson.silva496@example.com,,lead,TRUE,03/06/2025,Seattle,
+C-100287,Michael Conner,michael.conner54@inbox.example.net,(978) 555-8029,customer,FALSE,01/30/2025,Boston,8beae791-1455-41dd-a451-67f75ee83ea7
+C-100882,Sage Silva,sage.silva955@example.com,(305) 555-3539,lead,FALSE,02/19/2025,Austin,
+C-100057,Keith Cook,KEITH.COOK68@MAIL.EXAMPLE.ORG,(617) 555-3564,customer,TRUE,02/24/2024,Boston,
+C-100488,Dominique Reed,,(813) 555-7782,customer,FALSE,10/18/2024,Miami,d50199e3-7c9b-4921-9920-d234b5fc561a
+C-100560,Mary Vargas,mary.vargas32@example.com,(617) 555-0601,customer,FALSE,10/09/2024,Boston,2ef2eede-fcc3-4c79-a843-4f5ae828d591
+C-100234,Michael Baker Jr.,michael.bakerjr57@example.com,(617) 555-3845,customer,TRUE,09/26/2024,Boston,
+C-100316,Rebecca Roberson,rebecca.roberson49@example.com,(305) 555-6534,customer,TRUE,03/12/2025,Miami,
+C-100298,"Turner, Brittany",brittany.turner58@mail.example.org,(617) 555-2069,customer,FALSE,08/12/2024,Boston,
+C-100691,"Johnson, Sharon",sharonj190@example.com,(407) 555-4083,customer,TRUE,01/18/2025,Miami,
+C-100398,Audrey Campbell,audrey.campbell67@inbox.example.net,,customer,TRUE,11/12/2024,Miami,c5ee9489-e7ea-4da3-9a86-b34c76f6d340
+C-100645,Amber Reed,amber.reed29@example.com,(305) 555-9921,customer,FALSE,09/29/2024,Miami,
+C-100068,Larry Ward,larry.ward70@mail.example.org,(978) 555-5326,customer,FALSE,01/23/2024,Boston,
+C-100168, Madison Davis ,madison.davis94@mail.example.org,(401) 555-0782,customer,FALSE,10/04/2024,Boston,a5781cf5-d32e-4370-b0f8-4f229bc0efa4
+C-100930,Rowan Cohen,rowan.cohen924@example.com,(305) 555-8423,lead,FALSE,08/07/2025,Miami,
+C-100833,Morgan Okafor,morgan.okafor308@example.com,,lead,TRUE,03/01/2025,Boston,
+C-100027,Jacob Reeves,jacob.reeves30@example.com,(401) 555-0367,customer,FALSE,09/28/2024,Boston,
+C-100762,KATHERINE MARTINEZ,katherine.martinez79@example.com,(305) 555-0913,customer,TRUE,07/03/2025,Miami,
+C-100305,Edward Bush,edward.bush24@example.com,(978) 555-5754,customer,FALSE,11/02/2024,Boston,0a34659d-f0b2-4bdb-bf92-759aea838e90
+C-100829,Quinn Patel,quinn.patel666@example.com,,lead,FALSE,07/12/2025,Austin,
+C-100400,RICKY LAWSON,RICKY.LAWSON13@INBOX.EXAMPLE.NET,(305) 555-9528,customer,TRUE,05/11/2024,Miami,
+C-100870,Casey Patel,casey.patel524@example.com,(305) 555-0554,lead,FALSE,12/27/2024,Denver,
+C-100906,Avery Garcia,avery.garcia893@example.com,,lead,FALSE,04/04/2025,Denver,
+C-100611,Lauren Love,LAUREN.LOVE91@EXAMPLE.COM,(617) 555-2599,customer,FALSE,11/13/2024,Boston,
+C-100755,Mary Martin,mary.martin73@example.com,(305) 555-3967,customer,TRUE,07/04/2025,Miami,2e0d6ce4-794d-4494-bd1d-f44dbca8683f
+C-100875,Sage Silva,sage.silva76@example.com,(617) 555-3868,lead,TRUE,12/30/2024,Boston,
+C-100239,Paige Lawson,,(617) 555-0332,subscriber,TRUE,12/22/2024,Boston,
+C-100083,Joshua Mann,JOSHUA.MANN60@INBOX.EXAMPLE.NET,(617) 555-0983,customer,FALSE,12/10/2023,Boston,
+C-100566,CHRISTOPHER BROWN,christopher.brown9@example.com,(617) 555-0714,customer,TRUE,02/15/2025,Boston,
+C-100546,Michelle Roberts,michelle.roberts25@inbox.example.net,(617) 555-9412,customer,TRUE,09/07/2024,Boston,
+C-100724,"Lewis, Sheena",SHEENA.LEWIS24@MAIL.EXAMPLE.ORG,(305) 555-2350,customer,TRUE,08/02/2025,Miami,
+C-100457,Kyle Saunders,kyle.saunders64@example.com,(813) 555-5164,customer,FALSE,06/17/2024,Miami,
+C-100199,Kimberly Barnes,kimberly.barnes62@mail.example.org,(617) 555-3139,customer,TRUE,11/16/2024,Boston,36df5a68-777a-4824-9342-f7f557e872ba
+C-100326,Victoria Terrell,victoriat304@example.com,(305) 555-3188,customer,FALSE,11/20/2024,Miami,
+C-100360,"Taylor, Laura",LAURA.TAYLOR71@INBOX.EXAMPLE.NET,(813) 555-2641,customer,TRUE,11/24/2024,Miami,
+C-100497,Brandy Harrington,BRANDYH251@EXAMPLE.COM,(617) 555-9390,customer,TRUE,12/06/2024,Boston,e58c63e7-69a9-49cb-947e-5841010ca567
+C-100543,James Grant,james.grant11@mail.example.org,(617) 555-5307,customer,FALSE,01/19/2025,Boston,4fc0f100-7ad9-49a8-9620-f0e3a0e42a80
+C-100081,James Stuart,JAMES.STUART31@INBOX.EXAMPLE.NET,(617) 555-8241,customer,TRUE,10/21/2024,Boston,
+C-100428,Mrs. Denise Allen,mrsd453@example.com,(813) 555-2794,customer,FALSE,07/07/2024,Miami,
+C-100222,Sharon Sims,sharon.sims1@mail.example.org,(978) 555-3415,customer,TRUE,09/23/2024,Boston,
+C-100314,Brian Bradford,brian.bradford36@inbox.example.net,(305) 555-6449,customer,TRUE,01/15/2025,Miami,
+C-100744,David Thornton,,(305) 555-3221,subscriber,FALSE,05/20/2025,Miami,
+C-100672,LISA LEE,lisa.lee39@inbox.example.net,(305) 555-6509,customer,FALSE,10/05/2024,Miami,920c0197-3c76-4cb7-90f7-b1a687043563
+C-100614,Emily Perry,emilyp568@example.com,(239) 555-2405,customer,TRUE,05/22/2025,Miami,17e24a9b-119c-4ea7-a53a-bb757c70ad0a
+C-100512,Karen Reynolds,,(305) 555-2403,subscriber,FALSE,11/11/2024,Miami,
+C-100697, Stephanie Price ,stephaniep682@example.com,,customer,FALSE,04/29/2025,Miami,67f25b4e-183c-4a43-9227-09966e445b42
+C-100923,Emerson Patel,EMERSON.PATEL536@EXAMPLE.COM,(720) 555-1254,lead,TRUE,01/22/2025,,
+C-100634,Sergio Johnson,SERGIO.JOHNSON78@MAIL.EXAMPLE.ORG,(407) 555-6292,customer,TRUE,09/27/2024,Miami,
+C-100002,Kristi Keller,kristi.keller70@mail.example.org,(978) 555-1370,customer,TRUE,06/17/2024,Boston,
+C-100874,Avery Kim,AVERY.KIM209@EXAMPLE.COM,(617) 555-9091,lead,TRUE,04/25/2025,Miami,
+C-100073,"Marshall, John",john.marshall86@mail.example.org,(617) 555-2865,customer,FALSE,04/22/2024,Boston,
+C-100510,Vanessa Serrano,vanessa.serrano15@mail.example.org,(305) 555-3370,customer,FALSE,11/02/2024,Miami,
+C-100489,Sherri Hernandez,sherri.hernandez3@example.com,(305) 555-8231,customer,FALSE,12/13/2024,Miami,1ed31084-8b68-49ca-91d6-7162d8521c02
+C-100317,Henry Harris,henryh281@example.com,(305) 555-2683,customer,TRUE,07/25/2024,Miami,5bf14829-99bd-4d3c-b504-edd1e45593a0
+C-100808, Don Valencia ,DON.VALENCIA28@INBOX.EXAMPLE.NET,(305) 555-5471,customer,TRUE,01/04/2025,Miami,
+C-100502,Pamela Davis,pamela.davis81@inbox.example.net,(305) 555-0653,customer,TRUE,10/16/2024,Miami,
+C-100541,MIGUEL PALMER,MIGUELP836@EXAMPLE.COM,(617) 555-0451,customer,FALSE,02/01/2025,Boston,
+C-100089,Ryan Austin,ryan.austin10@example.com,(978) 555-5506,customer,TRUE,08/28/2023,Boston,94e0e084-e14c-4061-80da-7e6030bf14d5
+C-100518,Natasha Carter,natasha.carter92@example.com,(239) 555-8259,customer,TRUE,01/18/2025,Miami,
+C-100578,Steven Wood,,(407) 555-6413,customer,TRUE,01/02/2025,Miami,
+C-100734,"Lewis, David",david.lewis77@example.com,(305) 555-3690,customer,FALSE,11/21/2024,Miami,84f7f075-d17e-4662-a11c-bc80e28b12f5
+C-100419,David Alvarez,david.alvarez55@mail.example.org,,customer,FALSE,04/03/2025,Miami,89b94667-2d12-4e7a-bfdd-f37056d10195
+C-100048,DOUGLAS HILL,douglas.hill76@example.com,(617) 555-8214,customer,FALSE,03/10/2024,Boston,
+C-100041,Dana Smith,dana.smith48@mail.example.org,(617) 555-3583,customer,FALSE,07/05/2024,Boston,fdd86eaf-7a5b-4598-9a08-6f4f207743bb
+C-100061,Jeffrey Bailey,jeffrey.bailey80@inbox.example.net,(617) 555-6256,customer,FALSE,03/02/2024,Boston,
+C-100397,Jody Foster,jodyf302@example.com,(305) 555-6143,customer,TRUE,06/02/2024,Miami,
+C-100847,Sage Schmidt,sage.schmidt432@example.com,,lead,TRUE,11/28/2024,,
+C-100519,"Ward, Rhonda",RHONDA.WARD91@MAIL.EXAMPLE.ORG,(305) 555-1005,customer,TRUE,12/28/2024,Miami,6a9699dc-eba5-4045-9b96-91504f0cfe77
+C-100689,James Mitchell,james.mitchell41@example.com,(305) 555-2080,customer,FALSE,11/03/2024,Miami,b6b6f9ac-f08b-4ef6-8e52-a2c0bb49b17d
+C-100035,Pamela Lane,pamela.lane39@inbox.example.net,(401) 555-5690,customer,TRUE,01/10/2024,Boston,18b69140-479d-44b6-8369-04a49414f975
+C-100432, Kimberly Butler ,kimberlyb414@example.com,(813) 555-6307,customer,FALSE,08/22/2024,Miami,
+C-100368,SHAWNA KNOX,SHAWNA.KNOX48@EXAMPLE.COM,(239) 555-2473,customer,FALSE,02/28/2025,Miami,
+C-100604,Diana Taylor,diana.taylor53@mail.example.org,(305) 555-5922,customer,TRUE,06/01/2025,Miami,
+C-100300,"Conner, Leslie",leslie.conner96@example.com,(617) 555-0120,customer,FALSE,03/01/2024,Boston,
+C-100699, John Wilson ,john.wilson35@inbox.example.net,(305) 555-3303,customer,FALSE,02/12/2025,Miami,3934f6b2-65db-491f-93be-76ec718440d9
+C-100380, Jennifer Davis ,jennifer.davis64@example.com,(305) 555-4079,customer,TRUE,02/12/2025,Miami,
+C-100618,"Smith, Jill",jill.smith36@example.com,(813) 555-4879,customer,FALSE,06/02/2024,Miami,33ab4667-4cdd-435a-875e-305ea36ebc4d
+C-100198,Debra Simmons,debra.simmons49@inbox.example.net,(617) 555-7906,customer,TRUE,03/09/2024,Boston,438d7ce2-8d55-49cd-ab64-d781e25abb9e
+C-100643,Manuel Hess,manuel.hess82@example.com,(305) 555-0367,customer,FALSE,11/17/2024,Miami,
+C-100509,"Watkins, Stephanie",stephanie.watkins16@mail.example.org,(305) 555-6711,customer,FALSE,06/09/2024,Miami,
+C-100254,Arthur Mendoza,arthurm654@example.com,(617) 555-9343,customer,TRUE,09/17/2024,Boston,7b971d80-7566-4bfa-93b7-b87270c4b732
+C-100551,Michael Gallegos,michael.gallegos8@example.com,(978) 555-8100,customer,TRUE,03/22/2025,Boston,aeea9d66-6c0a-4d7b-95ee-d3d25c66a5ac
+C-100701,Joshua Proctor,,(305) 555-6890,subscriber,FALSE,04/27/2025,Miami,
+C-100468,"Johnson, Kimberly",kimberly.johnson94@example.com,(305) 555-6781,customer,FALSE,11/29/2024,Miami,
+C-100606,Sarah Hatfield,sarah.hatfield27@inbox.example.net,(305) 555-0130,customer,TRUE,09/10/2024,Miami,
+C-100194,Rachael Hobbs,rachael.hobbs61@mail.example.org,(617) 555-7255,customer,TRUE,08/15/2024,Boston,
+C-100617,"Small, Brandon",brandon.small32@inbox.example.net,,customer,FALSE,10/06/2024,Miami,
+C-100520,JAMES BRENNAN,JAMES.BRENNAN81@INBOX.EXAMPLE.NET,(305) 555-8344,customer,FALSE,02/07/2025,Miami,
+C-100478,Douglas Vasquez,douglas.vasquez24@example.com,(305) 555-1042,customer,TRUE,03/26/2024,Miami,c2457423-d813-4e9b-8cac-e77de71eef5d
+C-100600,William Wallace II,william.wallaceii11@inbox.example.net,(305) 555-4472,customer,TRUE,05/19/2024,Miami,
+C-100352,"Martin, Norman",NORMAN.MARTIN42@MAIL.EXAMPLE.ORG,(305) 555-7804,customer,TRUE,09/20/2024,Miami,
+C-100077,Stacey Miller,staceym948@example.com,(617) 555-8913,customer,TRUE,05/20/2024,Boston,
+C-100747,Gerald Castillo,gerald.castillo87@mail.example.org,(813) 555-3509,customer,TRUE,08/24/2024,Miami,
+C-100172,"Clayton, Devin",DEVIN.CLAYTON91@EXAMPLE.COM,(617) 555-3401,customer,TRUE,08/16/2024,Boston,
+C-100347,SUSAN ODOM,SUSAN.ODOM34@MAIL.EXAMPLE.ORG,(813) 555-1814,customer,TRUE,03/22/2024,Miami,
+C-100678,KERRI WILSON,kerri.wilson84@example.com,(617) 555-3222,customer,FALSE,05/31/2025,Boston,8f9052f4-d761-416e-8b74-a71f640df0d7
+C-100293,MIKAYLA RIVERA,mikayla.rivera38@inbox.example.net,,customer,FALSE,05/06/2024,Boston,0d0eb3cb-f3ad-4673-8ef1-3b4600242421
+C-100793,KEVIN EVANS,kevin.evans50@inbox.example.net,(305) 555-4518,customer,FALSE,08/29/2024,Miami,
+C-100742,NICOLE HALL,NICOLEH106@EXAMPLE.COM,(305) 555-6621,customer,TRUE,10/15/2024,Miami,
+C-100265,John Hughes,john.hughes24@inbox.example.net,(617) 555-8808,customer,TRUE,09/01/2024,Boston,72fd6924-b954-4c8f-9c0b-2545d0efe53b
+C-100228,Jonathan Bennett,jonathan.bennett55@example.com,(617) 555-9584,customer,FALSE,08/22/2024,Boston,
+C-100576,ROY TORRES,roy.torres22@example.com,(239) 555-1257,customer,FALSE,08/24/2024,Miami,
+C-100615,Kathryn King,kathryn.king14@example.com,(305) 555-9746,customer,FALSE,03/31/2025,Miami,cc9cb0b1-f5d5-4fbb-ae89-025a80fb57c1
+C-100752,"Patterson, Christina",christina.patterson20@mail.example.org,(617) 555-1733,customer,TRUE,10/23/2024,Boston,
+C-100465,Brandy Joseph,,(305) 555-2979,subscriber,TRUE,11/06/2024,Miami,
+C-100651,Shawn Burnett,SHAWN.BURNETT87@EXAMPLE.COM,(813) 555-7594,customer,FALSE,11/02/2024,Miami,b43ea9dd-823e-4930-9110-31ea0eaa05f3
+C-100715,Amanda Harper,amandah769@example.com,(813) 555-3825,customer,FALSE,08/17/2024,Miami,be999c23-fb5b-4060-b4aa-bd50fe8ab5f6
+C-100918,Quinn Kim,QUINN.KIM531@EXAMPLE.COM,(720) 555-4879,lead,FALSE,02/09/2025,Denver,
+C-100188, David Leonard ,davidl926@example.com,(617) 555-1923,customer,FALSE,01/05/2024,Boston,
+C-100473,Michael Porter,MICHAEL.PORTER10@EXAMPLE.COM,(407) 555-3198,customer,TRUE,07/18/2024,Miami,b3f95dcd-caf0-4d0c-8890-a7b8e231c6b7
+C-100821,Emerson Cohen,EMERSON.COHEN121@EXAMPLE.COM,(720) 555-9390,lead,FALSE,10/03/2024,Austin,
+C-100133,Dr. Shannon Carter,dr.shannoncarter94@example.com,(401) 555-7405,customer,TRUE,03/07/2024,Boston,
+C-100174,Suzanne Farley,SUZANNE.FARLEY78@EXAMPLE.COM,(617) 555-5206,customer,FALSE,05/24/2024,Boston,19a47a26-3ca3-42d2-9e2d-8da79f09b587
+C-100127, Darryl Green ,darryl.green19@inbox.example.net,(401) 555-3674,customer,TRUE,07/14/2024,Boston,
+C-100163,Mr. Jeremy Cameron,,(617) 555-9628,customer,TRUE,03/09/2024,Boston,
+C-100887,Avery Cohen,avery.cohen306@example.com,(305) 555-9913,lead,TRUE,04/26/2025,Miami,
+C-100289,Christopher Graham,christopher.graham27@inbox.example.net,(207) 555-9373,customer,FALSE,08/17/2024,Boston,5350fafc-45eb-4871-a195-d1cc090f9d9c
+C-100459,Jessica Duke,jessicad101@example.com,(407) 555-6946,customer,FALSE,09/27/2024,Miami,
+C-100128,Arthur Evans,arthur.evans54@inbox.example.net,(401) 555-1594,customer,TRUE,01/09/2024,Boston,3cc240f8-bb78-4677-a387-18bb7667c3ea
+C-100902,Avery Cohen,avery.cohen529@example.com,(720) 555-4531,lead,TRUE,12/26/2024,,
+C-100921,Emerson Okafor,emerson.okafor961@example.com,(720) 555-4537,lead,FALSE,06/20/2025,,
+C-100705,Alicia Webster,,(207) 555-3999,customer,FALSE,06/07/2024,Boston,
+C-100294,Daniel Cuevas,danielc301@example.com,(617) 555-3910,customer,TRUE,11/20/2024,Boston,bea5ef1d-43b9-4df5-b3d1-436f675ec066
+C-100608,Hannah Ross,hannah.ross24@example.com,(305) 555-0941,customer,FALSE,05/03/2024,Miami,
+C-100671,David Hammond,david.hammond13@example.com,(305) 555-4027,customer,TRUE,06/11/2025,Miami,758b4602-0ce0-440a-9584-ad59ce4216ad
+C-100392,Patrick White,patrick.white91@example.com,(305) 555-4310,customer,FALSE,03/15/2024,Miami,
+C-100865,Quinn Cohen,QUINN.COHEN490@EXAMPLE.COM,,lead,TRUE,03/15/2025,,
+C-100577,Tiffany Scott,tiffany.scott6@example.com,(305) 555-7382,customer,FALSE,11/07/2024,Miami,
+C-100667, Nicole Russell ,nicole.russell36@mail.example.org,(813) 555-1730,customer,TRUE,12/18/2024,Miami,625c6012-3c16-4c27-ab0c-a8512e488ad7
+C-100325,Dr. Ryan Wright,dr.ryanwright55@inbox.example.net,(239) 555-1662,customer,TRUE,05/23/2024,Miami,
+C-100590,Claudia Jones,claudia.jones17@inbox.example.net,(305) 555-7684,customer,FALSE,02/05/2025,Miami,
+C-100656,Ellen Jordan,ellen.jordan69@inbox.example.net,(813) 555-5437,customer,FALSE,06/20/2024,Miami,
+C-100542,Miguel Palmer,,(617) 555-0451,subscriber,TRUE,06/27/2025,Boston,
+C-100136,Angela Moyer,angela.moyer12@mail.example.org,(401) 555-4863,customer,TRUE,08/26/2024,Boston,96f16837-3562-4765-b8dc-ddd863a970f2
+C-100412,Terry Welch,,(305) 555-7166,subscriber,TRUE,01/21/2025,Miami,
+C-100795,Jeffrey White,jeffrey.white1@mail.example.org,(305) 555-7732,customer,FALSE,03/06/2025,Miami,8e119f8a-036b-4da9-bbae-98ab4fb61e2f
+C-100920,Hayden Patel,hayden.patel821@example.com,,lead,FALSE,09/20/2024,Austin,
+C-100260,DEANNA TORRES,deanna.torres8@inbox.example.net,(617) 555-6669,customer,FALSE,08/08/2024,Boston,1fcfe435-1e78-4646-a517-19906c49735a
+C-100888,Emerson Garcia,EMERSON.GARCIA160@EXAMPLE.COM,,lead,FALSE,11/27/2024,Denver,
+C-100538,Richard Hayes,RICHARD.HAYES60@MAIL.EXAMPLE.ORG,(617) 555-8605,customer,TRUE,03/04/2025,Boston,
+C-100067,Alicia Huerta,,(617) 555-0717,subscriber,FALSE,09/02/2024,Boston,
+C-100189,Crystal Mendez,crystal.mendez28@mail.example.org,(978) 555-4344,customer,FALSE,02/07/2024,Boston,72492cee-bfcb-4501-9a63-5afe45f5215a
+C-100221,Debra Hall,DEBRA.HALL24@INBOX.EXAMPLE.NET,(207) 555-5436,customer,FALSE,11/09/2024,Boston,
+C-100526, Brett Allen ,brett.allen58@example.com,(978) 555-7229,customer,FALSE,07/25/2024,Boston,187d49e0-634f-4e10-a10c-3b0be7408be0
+C-100893,Sage Cohen,sage.cohen258@example.com,(305) 555-3076,lead,TRUE,11/04/2024,Denver,
+C-100810,Christina Hall,christina.hall95@inbox.example.net,(305) 555-7013,customer,TRUE,09/16/2024,Miami,
+C-100402,Nicholas Meyer,NICHOLAS.MEYER35@EXAMPLE.COM,(305) 555-6726,customer,TRUE,02/01/2025,Miami,d33f758e-ba0e-463c-ba18-0cd99108c547
+C-100124,Ronnie Anderson,ronnie.anderson13@example.com,(617) 555-6594,customer,TRUE,03/20/2024,Boston,b0382b3d-f5c4-4ecd-9e82-9ec911feb36a
+C-100537,Ryan Mclaughlin,ryan.mclaughlin49@inbox.example.net,(207) 555-8193,customer,TRUE,10/16/2024,Boston,
+C-100208,Tanya Anderson,tanya.anderson43@example.com,(617) 555-0173,customer,TRUE,10/23/2024,Boston,53dda453-796e-4167-b482-7449bd52694f
+C-100669,Jeffrey Boyd,jeffrey.boyd85@example.com,(813) 555-5001,customer,FALSE,02/19/2025,Miami,
+C-100161,Robert Skinner,robert.skinner33@mail.example.org,(617) 555-7880,customer,TRUE,07/09/2024,Boston,40353a67-5df0-44ca-9c10-b42fab44c6f3
+C-100871,Jordan Silva,jordan.silva882@example.com,(720) 555-4577,lead,TRUE,05/19/2025,Seattle,
+C-100113,Mr. Matthew Meyer,mrm499@example.com,(617) 555-7156,customer,FALSE,06/14/2024,Boston,
+C-100269,Chris Graves,CHRIS.GRAVES79@EXAMPLE.COM,(617) 555-8375,customer,FALSE,05/26/2024,Boston,
+C-100328,Erin King,erin.king90@inbox.example.net,(239) 555-5612,customer,FALSE,10/06/2024,Miami,b08f3b44-9c9f-407f-a89d-961068f5f58c
+C-100024,Timothy Waller,timothy.waller43@inbox.example.net,(207) 555-6245,customer,TRUE,10/07/2023,Boston,
+C-100418, Andrew Foster ,,(305) 555-2494,customer,FALSE,05/07/2024,Miami,
+C-100176,Julie Dixon,julie.dixon3@inbox.example.net,(617) 555-3857,customer,FALSE,04/24/2024,Boston,
+C-100022,Michael Williams,michael.williams84@mail.example.org,(617) 555-7245,customer,TRUE,11/05/2023,Boston,9ff834d1-4ca0-4dd5-bb53-ea96ad8611bb
+C-100104, John Drake ,john.drake90@example.com,(978) 555-4986,customer,TRUE,11/27/2023,Boston,2aee3fe5-2eb0-4391-bb79-d4d4ffdd9931
+C-100421,Jeremiah Sandoval,JEREMIAH.SANDOVAL29@EXAMPLE.COM,(305) 555-1294,customer,FALSE,05/05/2025,Miami,
+C-100190,CHRISTINA RAMIREZ,christina.ramirez35@inbox.example.net,(978) 555-3912,customer,FALSE,07/20/2024,Boston,bb0bc182-b8f7-4f26-b794-dca522dd4cec
+C-100226,Diane Davis,diane.davis62@mail.example.org,(617) 555-5977,customer,TRUE,10/14/2024,Boston,
+C-100318,Paul Perez,paul.perez50@mail.example.org,,customer,FALSE,04/17/2025,Miami,a2388294-855e-4447-a3d5-b3649380d30e
+C-100763,Wanda Osborne,wanda.osborne51@inbox.example.net,(305) 555-8400,customer,TRUE,11/04/2024,Miami,2b4b540f-9423-4186-8164-4566e5e908f2
+C-100038,Stephanie Quinn,stephanie.quinn89@example.com,(617) 555-9643,customer,FALSE,01/04/2024,Boston,0872893c-bf01-4853-b91f-a1cc0263fedf
+C-100848,Jordan Nguyen,jordan.nguyen672@example.com,(720) 555-3927,lead,TRUE,12/11/2024,Denver,
+C-100050,Rodney Berry,rodney.berry78@example.com,(617) 555-4137,customer,TRUE,09/20/2023,Boston,
+C-100409,Charles Edwards,charlese214@example.com,(305) 555-0862,customer,FALSE,05/01/2024,Miami,1c3dc001-75eb-4fb9-b3ad-59a3be5b31ac
+C-100460,Nicholas Mason,nicholas.mason14@example.com,(305) 555-6212,customer,FALSE,07/18/2024,Miami,
+C-100707,"Stokes, Jeremy",JEREMY.STOKES54@MAIL.EXAMPLE.ORG,(305) 555-1199,customer,TRUE,12/23/2024,Miami,41b09fe3-c0bf-4484-bc20-f48aedb5e7d5
+C-100011,"Williams, Aaron",aaron.williams48@mail.example.org,(207) 555-2743,customer,TRUE,11/26/2023,Boston,
+C-100413,Heidi Smith,HEIDI.SMITH93@EXAMPLE.COM,(239) 555-0267,customer,FALSE,04/05/2025,Miami,
+C-100241,JEFFREY GUTIERREZ,jeffrey.gutierrez12@example.com,(617) 555-1787,customer,TRUE,01/18/2024,Boston,af16d888-ff4c-4c16-a2f8-9e2a3a9677c7
+C-100511,Karen Reynolds,KAREN.REYNOLDS79@INBOX.EXAMPLE.NET,(305) 555-2403,customer,FALSE,08/20/2024,Miami,
+C-100026,Carlos Leon,CARLOS.LEON23@EXAMPLE.COM,(617) 555-6699,customer,FALSE,03/27/2024,Boston,3f3af4f6-a87b-4f03-8669-2e1a8e3c6d8b
+C-100907,Emerson Cohen,emerson.cohen24@example.com,,lead,TRUE,06/03/2025,Austin,
+C-100149,Ashley Mcdaniel,ashley.mcdaniel26@inbox.example.net,(617) 555-3134,customer,FALSE,07/05/2024,Boston,
+C-100864,Avery Murphy,AVERY.MURPHY386@EXAMPLE.COM,(617) 555-6236,lead,FALSE,05/10/2025,Miami,
+C-100362,Malik Cain,malik.cain49@mail.example.org,(305) 555-2688,customer,TRUE,09/09/2024,Miami,
+C-100446,Kelly Kelly,kelly.kelly54@mail.example.org,(978) 555-5364,customer,FALSE,05/18/2024,Boston,1380e029-b899-4413-a8da-0741720a6a06
+C-100405,Cory Hansen,cory.hansen9@inbox.example.net,(305) 555-9027,customer,TRUE,03/21/2024,Miami,
+C-100898,Rowan Silva,ROWAN.SILVA859@EXAMPLE.COM,,lead,FALSE,02/06/2025,Seattle,
+C-100463,Tony Lewis,tony.lewis88@mail.example.org,(239) 555-0283,customer,TRUE,09/28/2024,Miami,
+C-100922,Hayden Rossi,hayden.rossi993@example.com,,lead,TRUE,02/18/2025,Austin,
+C-100574,RENEE CLARK,reneec862@example.com,(305) 555-7441,customer,FALSE,11/01/2024,Miami,
+C-100250,William Valenzuela,WILLIAM.VALENZUELA15@INBOX.EXAMPLE.NET,(978) 555-3501,customer,TRUE,07/30/2024,Boston,8d5d45b6-2bf0-4380-85a0-b73fcbc86e94
+C-100681, Courtney Evans ,courtney.evans71@inbox.example.net,(305) 555-4310,customer,FALSE,12/02/2024,Miami,
+C-100536,Michelle Barnett,michelleb389@example.com,(305) 555-1523,customer,FALSE,04/09/2025,Miami,
+C-100728,Michael Harris,michael.harris62@example.com,(401) 555-2842,customer,FALSE,03/02/2025,Boston,
+C-100028,Jacob Reeves,,(401) 555-0367,subscriber,TRUE,11/07/2024,Boston,
+C-100787,Traci Patel,traci.patel62@inbox.example.net,(305) 555-7484,customer,FALSE,12/09/2024,Miami,
+C-100162,Tracy Santiago MD,TRACY.SANTIAGOMD90@MAIL.EXAMPLE.ORG,(617) 555-6232,customer,TRUE,11/28/2024,Boston,

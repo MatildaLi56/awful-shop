@@ -1,0 +1,5 @@
+region_id,region_name,division_name,country_code,regional_manager
+R01,Northeast,East,US,Grace Albright
+R02,Mountain,West,US,Tom Kowalczyk
+R03,Pacific Northwest,West,US,Ana Ruiz
+R04,South,East,US,Ray Thibodeaux

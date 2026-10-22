@@ -1,0 +1,14 @@
+models:
+  - name: stg_customers_history
+    description: Customer change log, one row per version of a customer (I = insert, U = update).
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            combination_of_columns: [customer_id, changed_at]
+    columns:
+      - name: country
+        description: Two-letter country code, standardized from US / USA / United States.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['US']

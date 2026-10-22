@@ -1,0 +1,21 @@
+models:
+  - name: dim_code
+    description: Shared code dimension, one row per code type and code, decoded from the code lookup.
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            combination_of_columns: [code_type, code]
+    columns:
+      - name: code_key
+        description: Surrogate key generated from code type and code.
+        data_tests:
+          - not_null
+          - unique
+      - name: code_type
+        description: The kind of code, for example PAYMENT_METHOD.
+        data_tests:
+          - not_null
+      - name: code_description
+        description: Readable name of the code.
+        data_tests:
+          - not_null

@@ -1,0 +1,29 @@
+code_type,code,description,sort_order,is_active
+LOYALTY_TIER,B,Bronze,1,Y
+LOYALTY_TIER,S,Silver,2,Y
+LOYALTY_TIER,G,Gold,3,Y
+LOYALTY_TIER,P,Platinum,4,Y
+ORDER_STATUS,C,Completed,1,Y
+ORDER_STATUS,R,Refunded,2,Y
+ORDER_STATUS,X,Cancelled,3,Y
+ORDER_CHANNEL,I,In store,1,Y
+ORDER_CHANNEL,O,Online pickup,2,Y
+ORDER_CHANNEL,D,Delivery,3,Y
+PAYMENT_METHOD,CC,Credit card,1,Y
+PAYMENT_METHOD,DC,Debit card,2,Y
+PAYMENT_METHOD,AP,Mobile wallet,3,Y
+PAYMENT_METHOD,CA,Cash,4,Y
+PAYMENT_METHOD,GC,Gift card,5,Y
+STORE_TYPE,FL,Flagship,1,Y
+STORE_TYPE,ST,Standard,2,Y
+STORE_TYPE,KS,Kiosk,3,Y
+PRODUCT_CATEGORY,F-SWT,Food - sweet jaffle,1,Y
+PRODUCT_CATEGORY,F-SAV,Food - savoury jaffle,2,Y
+PRODUCT_CATEGORY,B-CF,Beverage - coffee,3,Y
+PRODUCT_CATEGORY,B-TEA,Beverage - tea,4,Y
+PRODUCT_CATEGORY,B-SMO,Beverage - smoothie,5,Y
+PRODUCT_CATEGORY,B-JCE,Beverage - juice,6,Y
+REGION,R01,Northeast,1,Y
+REGION,R02,Midwest,2,Y
+REGION,R03,West Coast,3,Y
+REGION,R04,Gulf South,4,Y

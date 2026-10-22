@@ -1,0 +1,21 @@
+models:
+  - name: finance_monthly_sales
+    description: Sales per store and fiscal year from the finance sheet, in dollars. The finance team's sales source.
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            combination_of_columns: [location_name, fiscal_year]
+    columns:
+      - name: annual_sales
+        description: Sales for the fiscal year, in dollars.
+
+exposures:
+  - name: finance_report
+    label: Finance sales report
+    type: dashboard
+    maturity: medium
+    description: Sales by store and year for the finance team.
+    owner:
+      name: Finance
+    depends_on:
+      - ref('finance_monthly_sales')

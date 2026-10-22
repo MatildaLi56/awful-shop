@@ -1,0 +1,7 @@
+models:
+  - name: stg_product_tags
+    description: Menu labels, one row per product per tag.
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            combination_of_columns: [product_id, product_tag]

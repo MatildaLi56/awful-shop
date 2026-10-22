@@ -1,0 +1,56 @@
+models:
+  - name: dim_customer
+    description: >
+      Customer dimension with history (type 2), one row per customer version, plus one
+      unknown row (customer_key = '-1') for orders with no known customer.
+      Built from the customer change log; a version runs from valid_from up to, but not
+      including, valid_to.
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            combination_of_columns: [customer_id, valid_from]
+    columns:
+      - name: customer_key
+        description: Surrogate key of the customer version, generated from customer_id and valid_from. Facts join on this.
+        data_tests:
+          - not_null
+          - unique
+      - name: customer_id
+        description: The customer's ID in the source system. Exactly one current version per customer.
+        data_tests:
+          - unique:
+              config:
+                where: "is_current"
+      - name: home_location_id
+        description: The customer's home store, where they placed their first order; '-1' when unknown. Points to dim_location.
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_location')
+                field: location_id
+      - name: customer_name
+        description: Type 1, always the latest name.
+      - name: phone
+        description: Type 1, always the latest phone number; 'Unknown' when missing.
+      - name: loyalty_tier
+        description: Type 2, decoded from B, S, G, P.
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Bronze', 'Silver', 'Gold', 'Platinum', 'Unknown']
+      - name: city
+        description: Type 2, the customer's city.
+      - name: state
+        description: Type 2; 'Unknown' when missing.
+        data_tests:
+          - not_null
+      - name: valid_from
+        description: When this version started.
+        data_tests:
+          - not_null
+      - name: valid_to
+        description: When the next version started; 9999-12-31 for the current version.
+        data_tests:
+          - not_null

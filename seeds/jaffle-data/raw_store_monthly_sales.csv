@@ -1,0 +1,4 @@
+store_name,fiscal_year,jan_sales,feb_sales,mar_sales,apr_sales,may_sales,jun_sales,jul_sales,aug_sales,sep_sales,oct_sales,nov_sales,dec_sales,ytd_sales,ytd_orders,last_refreshed
+Boston,2024,,,,,,,,,15386.10,19602.53,24311.85,32576.09,91876.57,8142,2025-09-02
+Boston,2025,38463.07,37409.27,46300.26,45469.71,48725.32,43807.24,42763.56,43488.22,,,,,346426.65,30688,2025-09-02
+Miami,2025,,,20005.43,29362.26,35770.75,41440.82,40778.33,48754.05,,,,,216111.64,21451,2025-09-02

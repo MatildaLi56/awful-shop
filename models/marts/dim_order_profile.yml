@@ -1,0 +1,15 @@
+models:
+  - name: dim_order_profile
+    description: >
+      Junk dimension for small order flags, one row per order status, channel and
+      promo flag combination (3 x 3 x 2 = 18 rows), with codes decoded.
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            combination_of_columns: [order_status_code, order_channel_code, has_promo]
+    columns:
+      - name: order_profile_key
+        description: Surrogate key generated from status code, channel code and has_promo.
+        data_tests:
+          - not_null
+          - unique

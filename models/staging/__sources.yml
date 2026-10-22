@@ -1,0 +1,42 @@
+version: 2
+
+sources:
+  - name: ecom
+    schema: raw
+    description: E-commerce data for the Jaffle Shop
+    tables:
+      - name: raw_customers
+        description: One record per person who has purchased one or more items
+      - name: raw_orders
+        description: One record per order (consisting of one or more order items)
+        config:
+          loaded_at_field: ordered_at
+      - name: raw_items
+        description: Items included in an order
+      - name: raw_stores
+        config:
+          loaded_at_field: opened_at
+      - name: raw_products
+        description: One record per SKU for items sold in stores
+      - name: raw_supplies
+        description: One record per supply per SKU of items sold in stores
+      - name: raw_customers_history
+        description: Change log from the customer system, one record per version of a customer (I = insert, U = update)
+      - name: raw_regions
+        description: Admin list of sales regions that stores roll up to
+      - name: raw_product_prices
+        description: Price list with validity dates, one record per SKU per price period
+      - name: raw_product_tags
+        description: Menu labels, one record per SKU per tag (many-to-many)
+      - name: raw_payments
+        description: Payment provider export, one record per charge or refund (an order can have several)
+      - name: raw_inventory_daily
+        description: Nightly stock count, one record per store per supply per day
+      - name: raw_crm_contacts
+        description: Marketing CRM export with its own contact IDs, partially linked to customers
+      - name: raw_code_lookup
+        description: Legacy shared lookup holding every code type and its description
+      - name: raw_store_monthly_sales
+        description: Finance spreadsheet, one record per store per year with a column per month
+      - name: raw_store_daily_metrics
+        description: Store metrics feed in long format, one record per store per day per metric

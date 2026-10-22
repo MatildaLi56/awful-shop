@@ -1,0 +1,9 @@
+models:
+  - name: stg_payments
+    description: Payment provider records, one row per charge or refund. An order can have several.
+    columns:
+      - name: payment_id
+        description: The unique key for each payment.
+        data_tests:
+          - not_null
+          - unique

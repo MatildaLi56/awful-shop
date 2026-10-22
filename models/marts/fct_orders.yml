@@ -1,0 +1,107 @@
+models:
+  - name: fct_orders
+    description: >
+      Order fact, one row per order. Orders with no store or no known customer
+      point to the unknown rows (key '-1'). Amounts are in dollars; order_total is
+      subtotal plus tax and does not include the delivery fee.
+    semantic_model:
+      enabled: true
+    agg_time_dimension: date_key
+    columns:
+      - name: order_id
+        description: The order's ID from the source (degenerate dimension). The grain of this table.
+        data_type: varchar
+        entity:
+          type: primary
+          name: order
+        data_tests:
+          - not_null
+          - unique
+      - name: date_key
+        description: Day the order was placed. Points to dim_date.
+        data_type: date
+        granularity: day
+        dimension:
+          type: time
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_date')
+                field: date_day
+      - name: location_id
+        description: Store of the order; '-1' when the order has no store. Points to dim_location.
+        data_type: varchar
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_location')
+                field: location_id
+      - name: customer_key
+        description: >
+          Customer version that was current when the order was placed; '-1' for guest
+          orders and customers missing from the customer system. Points to dim_customer.
+        data_type: varchar
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_customer')
+                field: customer_key
+      - name: order_profile_key
+        description: Status, channel and promo flag of the order. Points to dim_order_profile.
+        data_type: varchar
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_order_profile')
+                field: order_profile_key
+      - name: subtotal
+        description: Price of the items before tax, in dollars.
+        data_type: decimal(16,2)
+      - name: tax_paid
+        description: Tax on the order, in dollars.
+        data_type: decimal(16,2)
+      - name: delivery_fee
+        description: Delivery fee, in dollars; 0 for in-store and pickup orders.
+        data_type: decimal(16,2)
+      - name: order_total
+        description: Subtotal plus tax, in dollars. Does not include the delivery fee.
+        data_type: decimal(16,2)
+      - name: ordered_at
+        description: When the order was placed.
+        data_type: timestamp
+      - name: updated_at
+        description: When the order was last changed in the source. Used for incremental loads.
+        data_type: timestamp
+    metrics:
+      - name: revenue
+        description: Item sales before tax and delivery fee, sum(subtotal).
+        label: Revenue
+        type: simple
+        agg: sum
+        expr: subtotal
+      - name: order_count
+        description: Number of orders.
+        label: Order count
+        type: simple
+        agg: count
+        expr: order_id
+
+exposures:
+  - name: sales_dashboard
+    label: Sales dashboard
+    type: dashboard
+    maturity: high
+    description: Daily sales by store, customer tier and channel.
+    owner:
+      name: Sales analytics
+    depends_on:
+      - ref('fct_orders')
+      - ref('dim_date')
+      - ref('dim_location')
+      - ref('dim_customer')
+      - ref('dim_order_profile')
+      - ref('int_customer_tier_history')

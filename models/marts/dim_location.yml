@@ -1,0 +1,26 @@
+models:
+  - name: dim_location
+    description: One row per store, plus one unknown row (location_id = '-1') for facts with no store.
+    columns:
+      - name: location_id
+        description: The store's ID in the source system; '-1' on the unknown row. Facts join on this.
+        data_tests:
+          - not_null
+          - unique
+      - name: store_type
+        description: Store format, FL, ST or KS.
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['FL', 'ST', 'KS', 'Unknown']
+      - name: region_key
+        description: Sales region the store belongs to; '-1' on the unknown row. Points to dim_region.
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_region')
+                field: region_key
+      - name: is_open
+        description: True if the store has no closed date. Null on the unknown row.

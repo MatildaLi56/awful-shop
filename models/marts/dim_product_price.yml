@@ -1,0 +1,35 @@
+models:
+  - name: dim_product_price
+    description: >
+      List price history (type 2), one row per product per price period.
+      A period runs from valid_from up to, but not including, valid_to; the current
+      price has valid_to = 9999-12-31. This is the list price, not the price charged:
+      facts use unit_price from the order item.
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            combination_of_columns: [product_id, valid_from]
+    columns:
+      - name: product_price_key
+        description: Surrogate key of the price period, generated from product_id and valid_from.
+        data_tests:
+          - not_null
+          - unique
+      - name: product_key
+        description: Points to dim_product.
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_product')
+                field: product_key
+      - name: product_id
+        description: The product's SKU. Exactly one current price per product.
+        data_tests:
+          - unique:
+              config:
+                where: "is_current"
+      - name: valid_to
+        description: First day the price no longer applies; 9999-12-31 for the current price.
+        data_tests:
+          - not_null

@@ -1,0 +1,7 @@
+models:
+  - name: stg_store_daily_metrics
+    description: Store metrics feed, one row per location, day and metric.
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            combination_of_columns: [location_id, metric_date, metric_name]

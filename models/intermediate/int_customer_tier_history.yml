@@ -1,0 +1,25 @@
+models:
+  - name: int_customer_tier_history
+    description: >
+      Loyalty tier history, one row per customer per tier period.
+      A period runs from valid_from up to, but not including, valid_to; the current
+      period has valid_to = 9999-12-31.
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            combination_of_columns: [customer_id, valid_from]
+    columns:
+      - name: customer_id
+        description: The customer's ID in the source system.
+        data_tests:
+          - not_null
+      - name: loyalty_tier
+        description: Loyalty tier code during this period (B, S, G, P).
+      - name: valid_from
+        description: When this tier period started.
+        data_tests:
+          - not_null
+      - name: valid_to
+        description: When the next tier period started; 9999-12-31 for the current period.
+        data_tests:
+          - not_null

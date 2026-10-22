@@ -1,0 +1,14 @@
+models:
+  - name: dim_order
+    description: Orders, one row per order, with their status and promo code.
+    columns:
+      - name: order_key
+        description: Surrogate key of the order, generated from order_id.
+        data_tests:
+          - not_null
+          - unique
+      - name: order_id
+        description: The order's ID from the source.
+        data_tests:
+          - not_null
+          - unique

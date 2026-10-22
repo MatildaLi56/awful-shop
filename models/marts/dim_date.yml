@@ -1,0 +1,17 @@
+models:
+  - name: dim_date
+    description: Calendar dimension, one row per day from 2023-01-01 to 2026-12-31.
+    columns:
+      - name: date_day
+        description: The calendar day and the key of this dimension. Facts join to it on their date column.
+        data_tests:
+          - not_null
+          - unique
+      - name: day_of_week
+        description: ISO day of week, 1 = Monday to 7 = Sunday.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: [1, 2, 3, 4, 5, 6, 7]
+      - name: is_weekend
+        description: True on Saturday and Sunday.

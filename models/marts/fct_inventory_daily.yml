@@ -1,0 +1,81 @@
+models:
+  - name: fct_inventory_daily
+    description: >
+      Inventory periodic snapshot fact, one row per store, supply and day (nightly stock count).
+      on_hand_qty and par_level are levels: they add up across stores and supplies, but not
+      across days. For a month, use the last day of the month, not the sum of the days.
+    semantic_model:
+      enabled: true
+    agg_time_dimension: date_key
+    primary_entity: inventory_count
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            combination_of_columns: [date_key, location_id, supply_key]
+    columns:
+      - name: date_key
+        description: Day of the stock count. Points to dim_date.
+        granularity: day
+        dimension:
+          type: time
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_date')
+                field: date_day
+      - name: location_id
+        description: Store that was counted. Points to dim_location.
+        entity:
+          type: foreign
+          name: location
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_location')
+                field: location_id
+      - name: supply_key
+        description: Supply that was counted. Points to dim_supply.
+        entity:
+          type: foreign
+          name: supply
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_supply')
+                field: supply_key
+      - name: on_hand_qty
+        description: Units in stock at the end of the day.
+        data_tests:
+          - not_null
+      - name: par_level
+        description: Target stock level for the supply in this store.
+        data_tests:
+          - not_null
+    metrics:
+      - name: on_hand_qty
+        description: Units in stock at the end of the period (the last day's count, not the sum of the days).
+        label: On-hand quantity
+        type: simple
+        agg: sum
+        expr: on_hand_qty
+        non_additive_dimension:
+          name: date_key
+          window_agg: max
+      - name: par_level
+        description: Target stock level at the end of the period (the last day's value, not the sum of the days).
+        label: Par level
+        type: simple
+        agg: sum
+        expr: par_level
+        non_additive_dimension:
+          name: date_key
+          window_agg: max
+      - name: fill_rate
+        description: Share of the target stock that is on hand, in percent.
+        label: Fill rate
+        type: simple
+        agg: average
+        expr: fill_rate_pct

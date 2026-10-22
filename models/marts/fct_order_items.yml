@@ -1,0 +1,66 @@
+models:
+  - name: fct_order_items
+    description: >
+      Order item fact, one row per item sold. Order-level keys (date, store, customer
+      version, order profile) are taken from fct_orders. Order-level amounts (tax,
+      delivery fee, total) are not repeated here; they stay in fct_orders.
+    columns:
+      - name: order_item_id
+        description: The item's ID from the source. The grain of this table.
+        data_tests:
+          - not_null
+          - unique
+      - name: order_id
+        description: The order this item belongs to.
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('fct_orders')
+                field: order_id
+      - name: order_key
+        description: The order this item belongs to. Points to dim_order.
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_order')
+                field: order_key
+      - name: date_key
+        description: Day the order was placed. Points to dim_date.
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_date')
+                field: date_day
+      - name: product_key
+        description: Product sold. Points to dim_product.
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_product')
+                field: product_key
+      - name: location_id
+        description: Store of the order; '-1' when the order has no store. Points to dim_location.
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_location')
+                field: location_id
+      - name: customer_key
+        description: Customer version in effect when the order was placed; '-1' when unknown. Points to dim_customer.
+      - name: order_profile_key
+        description: Status, channel and promo flag of the order. Points to dim_order_profile.
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_order_profile')
+                field: order_profile_key
+      - name: item_amount
+        description: Price actually charged for the item, in dollars.
+        data_tests:
+          - not_null

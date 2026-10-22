@@ -1,0 +1,10 @@
+snapshots:
+  - name: snp_customers
+    description: >
+      History of raw_customers. Each dbt snapshot run compares the source with
+      the last saved version and adds a new row when a customer's updated_at moves.
+    relation: source('ecom', 'raw_customers')
+    config:
+      unique_key: id
+      strategy: timestamp
+      updated_at: updated_at

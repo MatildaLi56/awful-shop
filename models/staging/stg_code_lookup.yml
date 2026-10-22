@@ -1,0 +1,7 @@
+models:
+  - name: stg_code_lookup
+    description: Shared lookup of every code type, one row per code type and code.
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            combination_of_columns: [code_type, code]

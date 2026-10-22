@@ -1,0 +1,63 @@
+models:
+  - name: fct_store_daily
+    description: >
+      Store daily metrics, one row per store and day, pivoted from the long-format metrics
+      feed (one column per metric). avg_wait_minutes is an average: do not add it up.
+    semantic_model:
+      enabled: true
+    agg_time_dimension: date_key
+    primary_entity: store_day
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            combination_of_columns: [date_key, location_id]
+    columns:
+      - name: date_key
+        description: Day of the metrics. Points to dim_date.
+        granularity: day
+        dimension:
+          type: time
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_date')
+                field: date_day
+      - name: location_id
+        description: Store. Points to dim_location.
+        entity:
+          type: foreign
+          name: location
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_location')
+                field: location_id
+      - name: gross_sales
+        description: Sales reported by the store system, in dollars.
+      - name: order_count
+        description: Orders reported by the store system.
+      - name: foot_traffic
+        description: People who came into the store.
+      - name: avg_wait_minutes
+        description: Average wait time that day. An average, so not additive.
+    metrics:
+      - name: foot_traffic
+        description: People who came into the store.
+        label: Foot traffic
+        type: simple
+        agg: sum
+        expr: foot_traffic
+      - name: store_order_count
+        description: Orders reported by the store system.
+        label: Store order count
+        type: simple
+        agg: sum
+        expr: order_count
+      - name: conversion_rate
+        description: Share of visitors who placed an order, sum(order_count) / sum(foot_traffic).
+        label: Conversion rate
+        type: ratio
+        numerator: store_order_count
+        denominator: foot_traffic

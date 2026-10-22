@@ -1,0 +1,11 @@
+models:
+  - name: finance_orders
+    description: Orders for the finance team, one row per order, with revenue.
+    columns:
+      - name: order_id
+        description: The order's ID from the source.
+        data_tests:
+          - not_null
+          - unique
+      - name: revenue
+        description: Revenue of the order in dollars.

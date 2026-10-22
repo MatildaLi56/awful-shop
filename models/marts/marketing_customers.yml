@@ -1,0 +1,11 @@
+models:
+  - name: marketing_customers
+    description: Customers for the marketing team, one row per CRM contact.
+    columns:
+      - name: contact_id
+        description: The customer's ID in the marketing CRM.
+        data_tests:
+          - not_null
+          - unique
+      - name: lifecycle_stage
+        description: Marketing stage (subscriber, lead, customer).

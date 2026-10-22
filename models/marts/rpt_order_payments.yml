@@ -1,0 +1,9 @@
+models:
+  - name: rpt_order_payments
+    description: Daily order totals next to the payments received for those orders, one row per order day.
+    columns:
+      - name: date_key
+        description: Day the orders were placed. Points to dim_date.
+        data_tests:
+          - not_null
+          - unique

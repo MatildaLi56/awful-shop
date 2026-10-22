@@ -1,0 +1,21 @@
+models:
+  - name: dim_region
+    description: Sales region dimension, one row per region, plus one unknown row (region_key = '-1').
+    columns:
+      - name: region_key
+        description: Surrogate key of the region, generated from region_id. dim_location joins on this.
+        data_tests:
+          - not_null
+          - unique
+      - name: region_id
+        description: The region's ID in the source system, for example R01. Null on the unknown row.
+      - name: region_name
+        description: Name of the sales region.
+        data_tests:
+          - not_null
+      - name: division_name
+        description: Division the region belongs to (East or West).
+        data_tests:
+          - not_null
+      - name: country_code
+        description: Country of the region.

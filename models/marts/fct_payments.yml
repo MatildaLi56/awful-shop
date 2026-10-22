@@ -1,0 +1,51 @@
+models:
+  - name: fct_payments
+    description: >
+      Payment fact, one row per charge or refund. Refunds are negative rows.
+      An order can have several payments, so do not join this table straight to
+      fct_orders: summarise payments to one row per order first, or compare the two
+      facts through shared dimensions (date, store).
+    columns:
+      - name: payment_id
+        description: The payment's ID from the source. The grain of this table.
+        data_tests:
+          - not_null
+          - unique
+      - name: order_id
+        description: The order this payment belongs to (degenerate dimension).
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('fct_orders')
+                field: order_id
+      - name: payment_date
+        description: Day the payment was made (not the order day), as YYYYMMDD.
+        data_tests:
+          - not_null
+      - name: payment_method_key
+        description: How the customer paid. Points to dim_code.
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_code')
+                field: code_key
+      - name: location_id
+        description: Store of the order; '-1' when the order has no store. Points to dim_location.
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_location')
+                field: location_id
+      - name: payment_status
+        description: success for a charge, refund for money paid back.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['success', 'refund']
+      - name: amount
+        description: Amount in dollars; negative for refunds.
+        data_tests:
+          - not_null

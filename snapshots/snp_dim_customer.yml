@@ -1,0 +1,10 @@
+snapshots:
+  - name: snp_dim_customer
+    description: >
+      History of dim_customer. Each dbt snapshot run compares dim_customer with
+      the last saved version and adds a new row when any column changes.
+    relation: ref('dim_customer')
+    config:
+      unique_key: customer_key
+      strategy: check
+      check_cols: all

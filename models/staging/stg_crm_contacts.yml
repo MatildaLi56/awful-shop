@@ -1,0 +1,9 @@
+models:
+  - name: stg_crm_contacts
+    description: Marketing CRM contacts, one row per contact. Only some contacts link to a customer through customer_id.
+    columns:
+      - name: crm_contact_id
+        description: The unique key for each CRM contact.
+        data_tests:
+          - not_null
+          - unique
