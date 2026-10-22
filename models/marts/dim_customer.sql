@@ -11,7 +11,7 @@ customer_history as (
 
 ),
 
--- today's values, used for the type 1 columns (name, phone)
+-- today's values
 customers as (
 
     select * from {{ ref('stg_customers') }}
@@ -62,11 +62,9 @@ customer_versions as (
         versions.customer_id,
         coalesce(locations.location_id, '-1') as home_location_id,
 
-        ---------- type 1: always today's value, on every version
+        ---------- attributes
         customers.customer_name,
         coalesce(customers.phone, 'Unknown') as phone,
-
-        ---------- type 2: the value during this version
         coalesce(nullif(versions.email, ''), 'Unknown') as email,
         versions.city,
         coalesce(nullif(versions.state, ''), 'Unknown') as state,

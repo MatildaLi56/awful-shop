@@ -1,7 +1,7 @@
 models:
   - name: dim_customer
     description: >
-      Customer dimension with history (type 2), one row per customer version, plus one
+      Customer dimension with history, one row per customer version, plus one
       unknown row (customer_key = '-1') for orders with no known customer.
       Built from the customer change log; a version runs from valid_from up to, but not
       including, valid_to.
@@ -30,20 +30,20 @@ models:
                 to: ref('dim_location')
                 field: location_id
       - name: customer_name
-        description: Type 1, always the latest name.
+        description: The customer's name.
       - name: phone
-        description: Type 1, always the latest phone number; 'Unknown' when missing.
+        description: The customer's phone number; 'Unknown' when missing.
       - name: loyalty_tier
-        description: Type 2, decoded from B, S, G, P.
+        description: The customer's loyalty tier, decoded from B, S, G, P.
         data_tests:
           - not_null
           - accepted_values:
               arguments:
                 values: ['Bronze', 'Silver', 'Gold', 'Platinum', 'Unknown']
       - name: city
-        description: Type 2, the customer's city.
+        description: The customer's city.
       - name: state
-        description: Type 2; 'Unknown' when missing.
+        description: The customer's state; 'Unknown' when missing.
         data_tests:
           - not_null
       - name: valid_from
